@@ -1,0 +1,5301 @@
+initial digits for line  1 : 1 1
+Found new first for line 1 : 5
+final digits for line  1 : 5 1
+Cal value for line 1 is: 51
+Total is:  51
+initial digits for line  2 : 6 6
+linenum with duplicate number:  6fourfour
+Found new last for line 2 : 4
+final digits for line  2 : 6 4
+Cal value for line 2 is: 64
+Total is:  115
+initial digits for line  3 : 6 9
+Found new first for line 3 : 2
+Found new first for line 3 : 9
+final digits for line  3 : 9 9
+Cal value for line 3 is: 99
+Total is:  214
+initial digits for line  4 : 9 1
+Found new last for line 4 : 1
+Found new last for line 4 : 8
+final digits for line  4 : 9 8
+Cal value for line 4 is: 98
+Total is:  312
+initial digits for line  5 : 3 1
+Found new first for line 5 : 5
+final digits for line  5 : 5 1
+Cal value for line 5 is: 51
+Total is:  363
+initial digits for line  6 : 5 5
+Found new last for line 6 : 5
+Found new first for line 6 : 9
+final digits for line  6 : 9 5
+Cal value for line 6 is: 95
+Total is:  458
+initial digits for line  7 : 7 9
+Found new first for line 7 : 3
+final digits for line  7 : 3 9
+Cal value for line 7 is: 39
+Total is:  497
+initial digits for line  8 : 1 9
+final digits for line  8 : 1 9
+Cal value for line 8 is: 19
+Total is:  516
+initial digits for line  9 : 3 3
+Found new first for line 9 : 3
+Found new first for line 9 : 5
+final digits for line  9 : 5 3
+Cal value for line 9 is: 53
+Total is:  569
+initial digits for line  10 : 2 2
+Found new last for line 10 : 7
+final digits for line  10 : 2 7
+Cal value for line 10 is: 27
+Total is:  596
+initial digits for line  11 : 1 7
+linenum with duplicate number:  1nine6oneeightnine5lfrzmzh7
+final digits for line  11 : 1 7
+Cal value for line 11 is: 17
+Total is:  613
+initial digits for line  12 : 7 5
+final digits for line  12 : 7 5
+Cal value for line 12 is: 75
+Total is:  688
+initial digits for line  13 : 3 3
+linenum with duplicate number:  qstwonepcd3twosixrmcnxhfzv
+Found new first for line 13 : 2
+Found new last for line 13 : 2
+Found new last for line 13 : 6
+final digits for line  13 : 2 6
+Cal value for line 13 is: 26
+Total is:  714
+initial digits for line  14 : 3 3
+Found new last for line 14 : 2
+final digits for line  14 : 3 2
+Cal value for line 14 is: 32
+Total is:  746
+initial digits for line  15 : 8 1
+final digits for line  15 : 8 1
+Cal value for line 15 is: 81
+Total is:  827
+initial digits for line  16 : 1 7
+Found new first for line 16 : 9
+final digits for line  16 : 9 7
+Cal value for line 16 is: 97
+Total is:  924
+initial digits for line  17 : 9 7
+final digits for line  17 : 9 7
+Cal value for line 17 is: 97
+Total is:  1021
+initial digits for line  18 : 4 9
+final digits for line  18 : 4 9
+Cal value for line 18 is: 49
+Total is:  1070
+initial digits for line  19 : 8 7
+Found new last for line 19 : 7
+Found new first for line 19 : 1
+final digits for line  19 : 1 7
+Cal value for line 19 is: 17
+Total is:  1087
+initial digits for line  20 : 9 8
+final digits for line  20 : 9 8
+Cal value for line 20 is: 98
+Total is:  1185
+initial digits for line  21 : 2 2
+Found new last for line 21 : 4
+final digits for line  21 : 2 4
+Cal value for line 21 is: 24
+Total is:  1209
+initial digits for line  22 : 5 6
+Found new first for line 22 : 6
+final digits for line  22 : 6 6
+Cal value for line 22 is: 66
+Total is:  1275
+initial digits for line  23 : 1 3
+Found new last for line 23 : 7
+final digits for line  23 : 1 7
+Cal value for line 23 is: 17
+Total is:  1292
+initial digits for line  24 : 4 6
+Found new last for line 24 : 2
+final digits for line  24 : 4 2
+Cal value for line 24 is: 42
+Total is:  1334
+initial digits for line  25 : 4 7
+final digits for line  25 : 4 7
+Cal value for line 25 is: 47
+Total is:  1381
+initial digits for line  26 : 9 6
+final digits for line  26 : 9 6
+Cal value for line 26 is: 96
+Total is:  1477
+initial digits for line  27 : 1 8
+Found new first for line 27 : 7
+final digits for line  27 : 7 8
+Cal value for line 27 is: 78
+Total is:  1555
+initial digits for line  28 : 9 9
+Found new last for line 28 : 2
+final digits for line  28 : 9 2
+Cal value for line 28 is: 92
+Total is:  1647
+initial digits for line  29 : 8 5
+Found new first for line 29 : 7
+final digits for line  29 : 7 5
+Cal value for line 29 is: 75
+Total is:  1722
+initial digits for line  30 : 5 7
+Found new last for line 30 : 6
+final digits for line  30 : 5 6
+Cal value for line 30 is: 56
+Total is:  1778
+initial digits for line  31 : 9 9
+Found new first for line 31 : 3
+final digits for line  31 : 3 9
+Cal value for line 31 is: 39
+Total is:  1817
+initial digits for line  32 : 6 6
+final digits for line  32 : 6 6
+Cal value for line 32 is: 66
+Total is:  1883
+initial digits for line  33 : 8 8
+Found new first for line 33 : 7
+Found new last for line 33 : 4
+final digits for line  33 : 7 4
+Cal value for line 33 is: 74
+Total is:  1957
+initial digits for line  34 : 2 2
+Found new last for line 34 : 2
+final digits for line  34 : 2 2
+Cal value for line 34 is: 22
+Total is:  1979
+initial digits for line  35 : 3 1
+final digits for line  35 : 3 1
+Cal value for line 35 is: 31
+Total is:  2010
+initial digits for line  36 : 7 3
+Found new first for line 36 : 7
+final digits for line  36 : 7 3
+Cal value for line 36 is: 73
+Total is:  2083
+initial digits for line  37 : 6 8
+final digits for line  37 : 6 8
+Cal value for line 37 is: 68
+Total is:  2151
+initial digits for line  38 : 9 9
+final digits for line  38 : 9 9
+Cal value for line 38 is: 99
+Total is:  2250
+initial digits for line  39 : 6 5
+final digits for line  39 : 6 5
+Cal value for line 39 is: 65
+Total is:  2315
+initial digits for line  40 : 9 9
+Found new last for line 40 : 3
+final digits for line  40 : 9 3
+Cal value for line 40 is: 93
+Total is:  2408
+initial digits for line  41 : 5 5
+Found new last for line 41 : 6
+final digits for line  41 : 5 6
+Cal value for line 41 is: 56
+Total is:  2464
+initial digits for line  42 : 2 2
+linenum with duplicate number:  nine2onelpzhtrbninexkgtjqg
+Found new first for line 42 : 9
+Found new last for line 42 : 9
+final digits for line  42 : 9 9
+Cal value for line 42 is: 99
+Total is:  2563
+initial digits for line  43 : 6 6
+Found new last for line 43 : 9
+final digits for line  43 : 6 9
+Cal value for line 43 is: 69
+Total is:  2632
+initial digits for line  44 : 2 9
+final digits for line  44 : 2 9
+Cal value for line 44 is: 29
+Total is:  2661
+initial digits for line  45 : 6 9
+linenum with duplicate number:  hjdtscdc6twotwosixsevensix9six
+linenum with duplicate number:  hjdtscdc6twotwosixsevensix9six
+final digits for line  45 : 6 9
+Cal value for line 45 is: 69
+Total is:  2730
+initial digits for line  46 : 2 5
+Found new first for line 46 : 2
+Found new first for line 46 : 6
+final digits for line  46 : 6 5
+Cal value for line 46 is: 65
+Total is:  2795
+initial digits for line  47 : 4 4
+final digits for line  47 : 4 4
+Cal value for line 47 is: 44
+Total is:  2839
+initial digits for line  48 : 8 5
+Found new last for line 48 : 4
+Found new first for line 48 : 9
+final digits for line  48 : 9 4
+Cal value for line 48 is: 94
+Total is:  2933
+initial digits for line  49 : 9 9
+Found new first for line 49 : 4
+Found new first for line 49 : 7
+Found new first for line 49 : 2
+Found new first for line 49 : 8
+final digits for line  49 : 8 9
+Cal value for line 49 is: 89
+Total is:  3022
+initial digits for line  50 : 5 4
+Found new last for line 50 : 1
+final digits for line  50 : 5 1
+Cal value for line 50 is: 51
+Total is:  3073
+initial digits for line  51 : 9 9
+linenum with duplicate number:  four9four184five9
+Found new first for line 51 : 4
+final digits for line  51 : 4 9
+Cal value for line 51 is: 49
+Total is:  3122
+initial digits for line  52 : 6 7
+Found new last for line 52 : 1
+linenum with duplicate number:  67seven7twobdcltwonenh
+final digits for line  52 : 6 1
+Cal value for line 52 is: 61
+Total is:  3183
+initial digits for line  53 : 5 6
+Found new first for line 53 : 1
+final digits for line  53 : 1 6
+Cal value for line 53 is: 16
+Total is:  3199
+initial digits for line  54 : 3 3
+linenum with duplicate number:  sixsix3jxfctsrsvfcrpbxtthmspdlqqrnckxtngnx
+Found new first for line 54 : 6
+final digits for line  54 : 6 3
+Cal value for line 54 is: 63
+Total is:  3262
+initial digits for line  55 : 3 3
+Found new last for line 55 : 4
+final digits for line  55 : 3 4
+Cal value for line 55 is: 34
+Total is:  3296
+initial digits for line  56 : 4 4
+Found new first for line 56 : 8
+Found new last for line 56 : 3
+final digits for line  56 : 8 3
+Cal value for line 56 is: 83
+Total is:  3379
+initial digits for line  57 : 7 6
+linenum with duplicate number:  7ninerpcrqt46gtnlzlmknine
+final digits for line  57 : 7 6
+Cal value for line 57 is: 76
+Total is:  3455
+initial digits for line  58 : 5 5
+Found new last for line 58 : 8
+linenum with duplicate number:  hppggtwohcckscs5eighttwo
+Found new first for line 58 : 2
+Found new last for line 58 : 2
+final digits for line  58 : 2 2
+Cal value for line 58 is: 22
+Total is:  3477
+initial digits for line  59 : 3 9
+Found new first for line 59 : 3
+Found new last for line 59 : 6
+final digits for line  59 : 3 6
+Cal value for line 59 is: 36
+Total is:  3513
+initial digits for line  60 : 6 3
+final digits for line  60 : 6 3
+Cal value for line 60 is: 63
+Total is:  3576
+initial digits for line  61 : 6 3
+linenum with duplicate number:  seven6five23seven
+Found new first for line 61 : 7
+Found new last for line 61 : 7
+final digits for line  61 : 7 7
+Cal value for line 61 is: 77
+Total is:  3653
+initial digits for line  62 : 9 6
+Found new last for line 62 : 9
+final digits for line  62 : 9 9
+Cal value for line 62 is: 99
+Total is:  3752
+initial digits for line  63 : 3 3
+Found new last for line 63 : 1
+Found new last for line 63 : 8
+final digits for line  63 : 3 8
+Cal value for line 63 is: 38
+Total is:  3790
+initial digits for line  64 : 9 3
+final digits for line  64 : 9 3
+Cal value for line 64 is: 93
+Total is:  3883
+initial digits for line  65 : 8 4
+linenum with duplicate number:  lvsqbjjsonethreeone864ncrlpdghgkfive
+Found new first for line 65 : 1
+Found new last for line 65 : 5
+final digits for line  65 : 1 5
+Cal value for line 65 is: 15
+Total is:  3898
+initial digits for line  66 : 3 6
+Found new first for line 66 : 2
+Found new last for line 66 : 8
+final digits for line  66 : 2 8
+Cal value for line 66 is: 28
+Total is:  3926
+initial digits for line  67 : 2 4
+Found new first for line 67 : 7
+final digits for line  67 : 7 4
+Cal value for line 67 is: 74
+Total is:  4000
+initial digits for line  68 : 2 2
+final digits for line  68 : 2 2
+Cal value for line 68 is: 22
+Total is:  4022
+initial digits for line  69 : 1 1
+linenum with duplicate number:  six1fivesixsevenninenine
+Found new first for line 69 : 6
+Found new last for line 69 : 6
+Found new last for line 69 : 7
+linenum with duplicate number:  six1fivesixsevenninenine
+Found new last for line 69 : 9
+final digits for line  69 : 6 9
+Cal value for line 69 is: 69
+Total is:  4091
+initial digits for line  70 : 6 6
+Found new first for line 70 : 6
+final digits for line  70 : 6 6
+Cal value for line 70 is: 66
+Total is:  4157
+initial digits for line  71 : 6 3
+Found new last for line 71 : 1
+final digits for line  71 : 6 1
+Cal value for line 71 is: 61
+Total is:  4218
+initial digits for line  72 : 3 3
+final digits for line  72 : 3 3
+Cal value for line 72 is: 33
+Total is:  4251
+initial digits for line  73 : 2 2
+Found new last for line 73 : 4
+Found new last for line 73 : 5
+final digits for line  73 : 2 5
+Cal value for line 73 is: 25
+Total is:  4276
+initial digits for line  74 : 4 7
+Found new first for line 74 : 7
+Found new first for line 74 : 3
+final digits for line  74 : 3 7
+Cal value for line 74 is: 37
+Total is:  4313
+initial digits for line  75 : 9 9
+linenum with duplicate number:  eightthree9eightfiveninetzhmhg
+Found new first for line 75 : 8
+Found new last for line 75 : 8
+Found new last for line 75 : 5
+Found new last for line 75 : 9
+final digits for line  75 : 8 9
+Cal value for line 75 is: 89
+Total is:  4402
+initial digits for line  76 : 1 5
+final digits for line  76 : 1 5
+Cal value for line 76 is: 15
+Total is:  4417
+initial digits for line  77 : 7 7
+Found new first for line 77 : 8
+linenum with duplicate number:  pzhpleighttbhhfxfdgprfjsxrzl7sixsixjgghqbr
+Found new last for line 77 : 6
+final digits for line  77 : 8 6
+Cal value for line 77 is: 86
+Total is:  4503
+initial digits for line  78 : 5 8
+linenum with duplicate number:  one5onecfdbpvxbdlmmdbxqdlbldjbz8
+Found new first for line 78 : 1
+final digits for line  78 : 1 8
+Cal value for line 78 is: 18
+Total is:  4521
+initial digits for line  79 : 4 3
+Found new last for line 79 : 2
+final digits for line  79 : 4 2
+Cal value for line 79 is: 42
+Total is:  4563
+initial digits for line  80 : 1 3
+final digits for line  80 : 1 3
+Cal value for line 80 is: 13
+Total is:  4576
+initial digits for line  81 : 6 5
+final digits for line  81 : 6 5
+Cal value for line 81 is: 65
+Total is:  4641
+initial digits for line  82 : 2 4
+Found new last for line 82 : 5
+final digits for line  82 : 2 5
+Cal value for line 82 is: 25
+Total is:  4666
+initial digits for line  83 : 4 3
+Found new last for line 83 : 7
+Found new last for line 83 : 9
+final digits for line  83 : 4 9
+Cal value for line 83 is: 49
+Total is:  4715
+initial digits for line  84 : 9 9
+Found new last for line 84 : 8
+Found new last for line 84 : 9
+final digits for line  84 : 9 9
+Cal value for line 84 is: 99
+Total is:  4814
+initial digits for line  85 : 5 5
+Found new last for line 85 : 7
+final digits for line  85 : 5 7
+Cal value for line 85 is: 57
+Total is:  4871
+initial digits for line  86 : 6 6
+Found new last for line 86 : 9
+Found new first for line 86 : 8
+final digits for line  86 : 8 9
+Cal value for line 86 is: 89
+Total is:  4960
+initial digits for line  87 : 1 5
+final digits for line  87 : 1 5
+Cal value for line 87 is: 15
+Total is:  4975
+initial digits for line  88 : 3 8
+final digits for line  88 : 3 8
+Cal value for line 88 is: 38
+Total is:  5013
+initial digits for line  89 : 5 5
+Found new first for line 89 : 8
+Found new first for line 89 : 9
+final digits for line  89 : 9 5
+Cal value for line 89 is: 95
+Total is:  5108
+initial digits for line  90 : 4 4
+Found new last for line 90 : 4
+Found new last for line 90 : 2
+final digits for line  90 : 4 2
+Cal value for line 90 is: 42
+Total is:  5150
+initial digits for line  91 : 4 4
+Found new first for line 91 : 1
+Found new last for line 91 : 3
+final digits for line  91 : 1 3
+Cal value for line 91 is: 13
+Total is:  5163
+initial digits for line  92 : 5 5
+Found new first for line 92 : 4
+final digits for line  92 : 4 5
+Cal value for line 92 is: 45
+Total is:  5208
+initial digits for line  93 : 7 7
+Found new first for line 93 : 5
+Found new last for line 93 : 3
+final digits for line  93 : 5 3
+Cal value for line 93 is: 53
+Total is:  5261
+initial digits for line  94 : 2 3
+linenum with duplicate number:  sixmljbdl2seven8six3ffrfc
+Found new first for line 94 : 6
+final digits for line  94 : 6 3
+Cal value for line 94 is: 63
+Total is:  5324
+initial digits for line  95 : 6 5
+linenum with duplicate number:  6threexgtvlxthree5fiveseven
+Found new last for line 95 : 5
+Found new last for line 95 : 7
+final digits for line  95 : 6 7
+Cal value for line 95 is: 67
+Total is:  5391
+initial digits for line  96 : 8 6
+Found new first for line 96 : 3
+Found new last for line 96 : 4
+final digits for line  96 : 3 4
+Cal value for line 96 is: 34
+Total is:  5425
+initial digits for line  97 : 7 9
+Found new first for line 97 : 5
+linenum with duplicate number:  eightfiveeight79
+Found new first for line 97 : 8
+final digits for line  97 : 8 9
+Cal value for line 97 is: 89
+Total is:  5514
+initial digits for line  98 : 5 4
+final digits for line  98 : 5 4
+Cal value for line 98 is: 54
+Total is:  5568
+initial digits for line  99 : 4 9
+Found new first for line 99 : 7
+final digits for line  99 : 7 9
+Cal value for line 99 is: 79
+Total is:  5647
+initial digits for line  100 : 8 8
+Found new first for line 100 : 1
+Found new first for line 100 : 2
+Found new last for line 100 : 5
+final digits for line  100 : 2 5
+Cal value for line 100 is: 25
+Total is:  5672
+initial digits for line  101 : 6 9
+Found new first for line 101 : 3
+final digits for line  101 : 3 9
+Cal value for line 101 is: 39
+Total is:  5711
+initial digits for line  102 : 5 3
+linenum with duplicate number:  fourfoursevenninelpjs5threevnc3
+Found new first for line 102 : 4
+final digits for line  102 : 4 3
+Cal value for line 102 is: 43
+Total is:  5754
+initial digits for line  103 : 4 1
+final digits for line  103 : 4 1
+Cal value for line 103 is: 41
+Total is:  5795
+initial digits for line  104 : 2 2
+Found new first for line 104 : 4
+Found new first for line 104 : 7
+Found new last for line 104 : 1
+final digits for line  104 : 7 1
+Cal value for line 104 is: 71
+Total is:  5866
+initial digits for line  105 : 6 6
+Found new first for line 105 : 5
+final digits for line  105 : 5 6
+Cal value for line 105 is: 56
+Total is:  5922
+initial digits for line  106 : 8 8
+final digits for line  106 : 8 8
+Cal value for line 106 is: 88
+Total is:  6010
+initial digits for line  107 : 5 5
+Found new first for line 107 : 1
+Found new last for line 107 : 3
+final digits for line  107 : 1 3
+Cal value for line 107 is: 13
+Total is:  6023
+initial digits for line  108 : 9 8
+Found new last for line 108 : 9
+final digits for line  108 : 9 9
+Cal value for line 108 is: 99
+Total is:  6122
+initial digits for line  109 : 5 9
+Found new first for line 109 : 5
+final digits for line  109 : 5 9
+Cal value for line 109 is: 59
+Total is:  6181
+initial digits for line  110 : 3 6
+final digits for line  110 : 3 6
+Cal value for line 110 is: 36
+Total is:  6217
+initial digits for line  111 : 9 2
+final digits for line  111 : 9 2
+Cal value for line 111 is: 92
+Total is:  6309
+initial digits for line  112 : 6 6
+Found new last for line 112 : 8
+Found new first for line 112 : 5
+final digits for line  112 : 5 8
+Cal value for line 112 is: 58
+Total is:  6367
+initial digits for line  113 : 2 4
+final digits for line  113 : 2 4
+Cal value for line 113 is: 24
+Total is:  6391
+initial digits for line  114 : 8 9
+linenum with duplicate number:  spceightwolbrcfkbrtwo8dkfmvrmrglmrsxlseven9nine
+Found new first for line 114 : 2
+Found new last for line 114 : 9
+Found new first for line 114 : 8
+final digits for line  114 : 8 9
+Cal value for line 114 is: 89
+Total is:  6480
+initial digits for line  115 : 1 2
+linenum with duplicate number:  threeckdrrznbbhnpsrmbrxlmfjz1twothree2
+Found new first for line 115 : 3
+final digits for line  115 : 3 2
+Cal value for line 115 is: 32
+Total is:  6512
+initial digits for line  116 : 3 4
+linenum with duplicate number:  3twokcfivetwosix4
+final digits for line  116 : 3 4
+Cal value for line 116 is: 34
+Total is:  6546
+initial digits for line  117 : 1 2
+Found new last for line 117 : 8
+Found new last for line 117 : 2
+final digits for line  117 : 1 2
+Cal value for line 117 is: 12
+Total is:  6558
+initial digits for line  118 : 5 5
+Found new first for line 118 : 7
+Found new first for line 118 : 1
+final digits for line  118 : 1 5
+Cal value for line 118 is: 15
+Total is:  6573
+initial digits for line  119 : 2 4
+final digits for line  119 : 2 4
+Cal value for line 119 is: 24
+Total is:  6597
+initial digits for line  120 : 8 5
+final digits for line  120 : 8 5
+Cal value for line 120 is: 85
+Total is:  6682
+initial digits for line  121 : 8 8
+final digits for line  121 : 8 8
+Cal value for line 121 is: 88
+Total is:  6770
+initial digits for line  122 : 3 5
+Found new first for line 122 : 1
+final digits for line  122 : 1 5
+Cal value for line 122 is: 15
+Total is:  6785
+initial digits for line  123 : 4 4
+Found new last for line 123 : 2
+Found new first for line 123 : 8
+final digits for line  123 : 8 2
+Cal value for line 123 is: 82
+Total is:  6867
+initial digits for line  124 : 9 1
+final digits for line  124 : 9 1
+Cal value for line 124 is: 91
+Total is:  6958
+initial digits for line  125 : 4 8
+final digits for line  125 : 4 8
+Cal value for line 125 is: 48
+Total is:  7006
+initial digits for line  126 : 7 2
+Found new first for line 126 : 6
+final digits for line  126 : 6 2
+Cal value for line 126 is: 62
+Total is:  7068
+initial digits for line  127 : 5 5
+Found new first for line 127 : 2
+final digits for line  127 : 2 5
+Cal value for line 127 is: 25
+Total is:  7093
+initial digits for line  128 : 7 3
+final digits for line  128 : 7 3
+Cal value for line 128 is: 73
+Total is:  7166
+initial digits for line  129 : 8 4
+Found new first for line 129 : 2
+final digits for line  129 : 2 4
+Cal value for line 129 is: 24
+Total is:  7190
+initial digits for line  130 : 3 8
+Found new first for line 130 : 2
+final digits for line  130 : 2 8
+Cal value for line 130 is: 28
+Total is:  7218
+initial digits for line  131 : 1 1
+Found new last for line 131 : 7
+Found new first for line 131 : 4
+final digits for line  131 : 4 7
+Cal value for line 131 is: 47
+Total is:  7265
+initial digits for line  132 : 6 6
+final digits for line  132 : 6 6
+Cal value for line 132 is: 66
+Total is:  7331
+initial digits for line  133 : 2 3
+Found new last for line 133 : 1
+final digits for line  133 : 2 1
+Cal value for line 133 is: 21
+Total is:  7352
+initial digits for line  134 : 2 5
+final digits for line  134 : 2 5
+Cal value for line 134 is: 25
+Total is:  7377
+initial digits for line  135 : 9 9
+Found new first for line 135 : 3
+linenum with duplicate number:  nrfdrzdjtlthreeonennzfbone9one
+final digits for line  135 : 3 9
+Cal value for line 135 is: 39
+Total is:  7416
+initial digits for line  136 : 6 6
+Found new first for line 136 : 8
+Found new first for line 136 : 2
+Found new first for line 136 : 6
+final digits for line  136 : 6 6
+Cal value for line 136 is: 66
+Total is:  7482
+initial digits for line  137 : 3 5
+final digits for line  137 : 3 5
+Cal value for line 137 is: 35
+Total is:  7517
+initial digits for line  138 : 5 1
+Found new first for line 138 : 3
+Found new last for line 138 : 6
+final digits for line  138 : 3 6
+Cal value for line 138 is: 36
+Total is:  7553
+initial digits for line  139 : 4 8
+linenum with duplicate number:  foureighteight4vvg98
+Found new first for line 139 : 8
+Found new first for line 139 : 4
+final digits for line  139 : 4 8
+Cal value for line 139 is: 48
+Total is:  7601
+initial digits for line  140 : 2 2
+final digits for line  140 : 2 2
+Cal value for line 140 is: 22
+Total is:  7623
+initial digits for line  141 : 2 2
+Found new first for line 141 : 6
+final digits for line  141 : 6 2
+Cal value for line 141 is: 62
+Total is:  7685
+initial digits for line  142 : 1 6
+final digits for line  142 : 1 6
+Cal value for line 142 is: 16
+Total is:  7701
+initial digits for line  143 : 2 7
+linenum with duplicate number:  29787jbhkhtbnbgfoursixfour
+Found new last for line 143 : 4
+Found new last for line 143 : 6
+final digits for line  143 : 2 6
+Cal value for line 143 is: 26
+Total is:  7727
+initial digits for line  144 : 5 8
+Found new first for line 144 : 4
+final digits for line  144 : 4 8
+Cal value for line 144 is: 48
+Total is:  7775
+initial digits for line  145 : 9 4
+Found new last for line 145 : 1
+linenum with duplicate number:  9eightfcvfeight4one
+final digits for line  145 : 9 1
+Cal value for line 145 is: 91
+Total is:  7866
+initial digits for line  146 : 6 3
+Found new last for line 146 : 3
+Found new first for line 146 : 7
+final digits for line  146 : 7 3
+Cal value for line 146 is: 73
+Total is:  7939
+initial digits for line  147 : 7 8
+Found new first for line 147 : 3
+final digits for line  147 : 3 8
+Cal value for line 147 is: 38
+Total is:  7977
+initial digits for line  148 : 9 9
+final digits for line  148 : 9 9
+Cal value for line 148 is: 99
+Total is:  8076
+initial digits for line  149 : 9 4
+Found new first for line 149 : 5
+final digits for line  149 : 5 4
+Cal value for line 149 is: 54
+Total is:  8130
+initial digits for line  150 : 6 6
+Found new last for line 150 : 3
+linenum with duplicate number:  6jthreesevenstksbsxttctjkdnxgjseven
+Found new last for line 150 : 7
+final digits for line  150 : 6 7
+Cal value for line 150 is: 67
+Total is:  8197
+initial digits for line  151 : 3 8
+Found new last for line 151 : 5
+Found new first for line 151 : 6
+final digits for line  151 : 6 5
+Cal value for line 151 is: 65
+Total is:  8262
+initial digits for line  152 : 7 7
+Found new last for line 152 : 5
+final digits for line  152 : 7 5
+Cal value for line 152 is: 75
+Total is:  8337
+initial digits for line  153 : 9 9
+Found new last for line 153 : 7
+Found new last for line 153 : 9
+final digits for line  153 : 9 9
+Cal value for line 153 is: 99
+Total is:  8436
+initial digits for line  154 : 7 7
+linenum with duplicate number:  x7dfxhgtqmeightveightfgrqj
+Found new last for line 154 : 8
+final digits for line  154 : 7 8
+Cal value for line 154 is: 78
+Total is:  8514
+initial digits for line  155 : 6 6
+Found new first for line 155 : 9
+Found new first for line 155 : 2
+final digits for line  155 : 2 6
+Cal value for line 155 is: 26
+Total is:  8540
+initial digits for line  156 : 9 8
+Found new last for line 156 : 6
+final digits for line  156 : 9 6
+Cal value for line 156 is: 96
+Total is:  8636
+initial digits for line  157 : 3 2
+Found new first for line 157 : 9
+final digits for line  157 : 9 2
+Cal value for line 157 is: 92
+Total is:  8728
+initial digits for line  158 : 6 3
+Found new last for line 158 : 8
+Found new last for line 158 : 1
+final digits for line  158 : 6 1
+Cal value for line 158 is: 61
+Total is:  8789
+initial digits for line  159 : 4 2
+final digits for line  159 : 4 2
+Cal value for line 159 is: 42
+Total is:  8831
+initial digits for line  160 : 1 9
+linenum with duplicate number:  1zpbmzvgxmhqdkr3four89four
+final digits for line  160 : 1 9
+Cal value for line 160 is: 19
+Total is:  8850
+initial digits for line  161 : 5 3
+Found new first for line 161 : 2
+Found new first for line 161 : 3
+final digits for line  161 : 3 3
+Cal value for line 161 is: 33
+Total is:  8883
+initial digits for line  162 : 4 4
+Found new first for line 162 : 8
+Found new last for line 162 : 4
+final digits for line  162 : 8 4
+Cal value for line 162 is: 84
+Total is:  8967
+initial digits for line  163 : 9 1
+Found new last for line 163 : 4
+final digits for line  163 : 9 4
+Cal value for line 163 is: 94
+Total is:  9061
+initial digits for line  164 : 4 5
+Found new last for line 164 : 2
+final digits for line  164 : 4 2
+Cal value for line 164 is: 42
+Total is:  9103
+initial digits for line  165 : 2 2
+Found new last for line 165 : 3
+final digits for line  165 : 2 3
+Cal value for line 165 is: 23
+Total is:  9126
+initial digits for line  166 : 6 6
+linenum with duplicate number:  6dgmmtwotwo
+Found new last for line 166 : 2
+final digits for line  166 : 6 2
+Cal value for line 166 is: 62
+Total is:  9188
+initial digits for line  167 : 1 4
+linenum with duplicate number:  1msixthree4sixeighttwoeight
+Found new last for line 167 : 2
+linenum with duplicate number:  1msixthree4sixeighttwoeight
+final digits for line  167 : 1 2
+Cal value for line 167 is: 12
+Total is:  9200
+initial digits for line  168 : 9 9
+Found new first for line 168 : 4
+Found new first for line 168 : 6
+final digits for line  168 : 6 9
+Cal value for line 168 is: 69
+Total is:  9269
+initial digits for line  169 : 1 7
+Found new first for line 169 : 1
+linenum with duplicate number:  one1five6fourthreetwo7two
+final digits for line  169 : 1 7
+Cal value for line 169 is: 17
+Total is:  9286
+initial digits for line  170 : 4 2
+Found new first for line 170 : 6
+Found new first for line 170 : 2
+Found new first for line 170 : 4
+final digits for line  170 : 4 2
+Cal value for line 170 is: 42
+Total is:  9328
+initial digits for line  171 : 8 8
+final digits for line  171 : 8 8
+Cal value for line 171 is: 88
+Total is:  9416
+initial digits for line  172 : 1 8
+final digits for line  172 : 1 8
+Cal value for line 172 is: 18
+Total is:  9434
+initial digits for line  173 : 4 8
+linenum with duplicate number:  4nn79fourfour28
+final digits for line  173 : 4 8
+Cal value for line 173 is: 48
+Total is:  9482
+initial digits for line  174 : 7 6
+final digits for line  174 : 7 6
+Cal value for line 174 is: 76
+Total is:  9558
+initial digits for line  175 : 2 7
+final digits for line  175 : 2 7
+Cal value for line 175 is: 27
+Total is:  9585
+initial digits for line  176 : 4 8
+Found new last for line 176 : 9
+final digits for line  176 : 4 9
+Cal value for line 176 is: 49
+Total is:  9634
+initial digits for line  177 : 5 5
+linenum with duplicate number:  nineeight5nineljhnxhqbpkbbkttwo
+Found new first for line 177 : 9
+Found new last for line 177 : 9
+Found new last for line 177 : 2
+final digits for line  177 : 9 2
+Cal value for line 177 is: 92
+Total is:  9726
+initial digits for line  178 : 1 1
+linenum with duplicate number:  scbbhqpcxthree1three1
+Found new first for line 178 : 3
+final digits for line  178 : 3 1
+Cal value for line 178 is: 31
+Total is:  9757
+initial digits for line  179 : 3 8
+Found new last for line 179 : 1
+final digits for line  179 : 3 1
+Cal value for line 179 is: 31
+Total is:  9788
+initial digits for line  180 : 7 7
+Found new first for line 180 : 9
+final digits for line  180 : 9 7
+Cal value for line 180 is: 97
+Total is:  9885
+initial digits for line  181 : 2 2
+final digits for line  181 : 2 2
+Cal value for line 181 is: 22
+Total is:  9907
+initial digits for line  182 : 6 3
+Found new first for line 182 : 9
+Found new last for line 182 : 1
+Found new last for line 182 : 8
+final digits for line  182 : 9 8
+Cal value for line 182 is: 98
+Total is:  10005
+initial digits for line  183 : 7 9
+Found new last for line 183 : 3
+final digits for line  183 : 7 3
+Cal value for line 183 is: 73
+Total is:  10078
+initial digits for line  184 : 5 3
+Found new first for line 184 : 9
+final digits for line  184 : 9 3
+Cal value for line 184 is: 93
+Total is:  10171
+initial digits for line  185 : 9 9
+Found new first for line 185 : 6
+final digits for line  185 : 6 9
+Cal value for line 185 is: 69
+Total is:  10240
+initial digits for line  186 : 6 3
+Found new first for line 186 : 9
+Found new last for line 186 : 4
+final digits for line  186 : 9 4
+Cal value for line 186 is: 94
+Total is:  10334
+initial digits for line  187 : 1 1
+Found new last for line 187 : 3
+Found new first for line 187 : 4
+Found new first for line 187 : 5
+final digits for line  187 : 5 3
+Cal value for line 187 is: 53
+Total is:  10387
+initial digits for line  188 : 2 8
+final digits for line  188 : 2 8
+Cal value for line 188 is: 28
+Total is:  10415
+initial digits for line  189 : 5 5
+final digits for line  189 : 5 5
+Cal value for line 189 is: 55
+Total is:  10470
+initial digits for line  190 : 3 1
+linenum with duplicate number:  five34fourfive1cddmdhrbmrjpz
+Found new first for line 190 : 5
+final digits for line  190 : 5 1
+Cal value for line 190 is: 51
+Total is:  10521
+initial digits for line  191 : 6 1
+Found new first for line 191 : 5
+final digits for line  191 : 5 1
+Cal value for line 191 is: 51
+Total is:  10572
+initial digits for line  192 : 8 9
+Found new last for line 192 : 5
+Found new first for line 192 : 8
+final digits for line  192 : 8 5
+Cal value for line 192 is: 85
+Total is:  10657
+initial digits for line  193 : 6 6
+Found new last for line 193 : 6
+final digits for line  193 : 6 6
+Cal value for line 193 is: 66
+Total is:  10723
+initial digits for line  194 : 3 6
+Found new first for line 194 : 2
+final digits for line  194 : 2 6
+Cal value for line 194 is: 26
+Total is:  10749
+initial digits for line  195 : 9 9
+Found new last for line 195 : 1
+Found new first for line 195 : 2
+final digits for line  195 : 2 1
+Cal value for line 195 is: 21
+Total is:  10770
+initial digits for line  196 : 6 9
+linenum with duplicate number:  6onenine9mhznxmoneightnvq
+Found new last for line 196 : 8
+final digits for line  196 : 6 8
+Cal value for line 196 is: 68
+Total is:  10838
+initial digits for line  197 : 4 6
+linenum with duplicate number:  4seven6jxtknddnkfivefivenine
+Found new last for line 197 : 5
+Found new last for line 197 : 9
+final digits for line  197 : 4 9
+Cal value for line 197 is: 49
+Total is:  10887
+initial digits for line  198 : 1 2
+Found new first for line 198 : 2
+final digits for line  198 : 2 2
+Cal value for line 198 is: 22
+Total is:  10909
+initial digits for line  199 : 8 3
+linenum with duplicate number:  8pk3xjbsevengfcseveneighteight
+Found new last for line 199 : 7
+linenum with duplicate number:  8pk3xjbsevengfcseveneighteight
+Found new last for line 199 : 8
+final digits for line  199 : 8 8
+Cal value for line 199 is: 88
+Total is:  10997
+initial digits for line  200 : 7 7
+Found new last for line 200 : 7
+Found new last for line 200 : 3
+final digits for line  200 : 7 3
+Cal value for line 200 is: 73
+Total is:  11070
+initial digits for line  201 : 6 5
+linenum with duplicate number:  three6sevenmeightjeight5four
+Found new first for line 201 : 3
+Found new last for line 201 : 4
+final digits for line  201 : 3 4
+Cal value for line 201 is: 34
+Total is:  11104
+initial digits for line  202 : 9 6
+final digits for line  202 : 9 6
+Cal value for line 202 is: 96
+Total is:  11200
+initial digits for line  203 : 9 3
+linenum with duplicate number:  9zninegdmqrtxtlnfiveeight3twotwo
+Found new last for line 203 : 2
+final digits for line  203 : 9 2
+Cal value for line 203 is: 92
+Total is:  11292
+initial digits for line  204 : 9 9
+final digits for line  204 : 9 9
+Cal value for line 204 is: 99
+Total is:  11391
+initial digits for line  205 : 9 9
+linenum with duplicate number:  sixvvkvjlndtqjlcqsixktmhpzs9d
+Found new first for line 205 : 6
+final digits for line  205 : 6 9
+Cal value for line 205 is: 69
+Total is:  11460
+initial digits for line  206 : 4 4
+Found new last for line 206 : 7
+final digits for line  206 : 4 7
+Cal value for line 206 is: 47
+Total is:  11507
+initial digits for line  207 : 5 5
+Found new last for line 207 : 8
+Found new first for line 207 : 9
+final digits for line  207 : 9 8
+Cal value for line 207 is: 98
+Total is:  11605
+initial digits for line  208 : 7 5
+Found new first for line 208 : 7
+final digits for line  208 : 7 5
+Cal value for line 208 is: 75
+Total is:  11680
+initial digits for line  209 : 8 1
+final digits for line  209 : 8 1
+Cal value for line 209 is: 81
+Total is:  11761
+initial digits for line  210 : 7 7
+final digits for line  210 : 7 7
+Cal value for line 210 is: 77
+Total is:  11838
+initial digits for line  211 : 3 3
+linenum with duplicate number:  sevennine3eightfzpxdxpmseightwozvb
+Found new last for line 211 : 8
+Found new first for line 211 : 7
+Found new last for line 211 : 2
+final digits for line  211 : 7 2
+Cal value for line 211 is: 72
+Total is:  11910
+initial digits for line  212 : 1 9
+Found new last for line 212 : 4
+final digits for line  212 : 1 4
+Cal value for line 212 is: 14
+Total is:  11924
+initial digits for line  213 : 2 3
+linenum with duplicate number:  2fiveclxxnxmsevenzmz6rfvhkrseven3
+final digits for line  213 : 2 3
+Cal value for line 213 is: 23
+Total is:  11947
+initial digits for line  214 : 4 5
+Found new last for line 214 : 7
+Found new last for line 214 : 2
+final digits for line  214 : 4 2
+Cal value for line 214 is: 42
+Total is:  11989
+initial digits for line  215 : 5 5
+Found new first for line 215 : 6
+final digits for line  215 : 6 5
+Cal value for line 215 is: 65
+Total is:  12054
+initial digits for line  216 : 1 8
+Found new first for line 216 : 1
+Found new first for line 216 : 3
+final digits for line  216 : 3 8
+Cal value for line 216 is: 38
+Total is:  12092
+initial digits for line  217 : 3 3
+Found new first for line 217 : 3
+Found new last for line 217 : 4
+final digits for line  217 : 3 4
+Cal value for line 217 is: 34
+Total is:  12126
+initial digits for line  218 : 7 2
+Found new last for line 218 : 4
+linenum with duplicate number:  sixsixj772four
+Found new first for line 218 : 6
+final digits for line  218 : 6 4
+Cal value for line 218 is: 64
+Total is:  12190
+initial digits for line  219 : 5 3
+Found new first for line 219 : 8
+final digits for line  219 : 8 3
+Cal value for line 219 is: 83
+Total is:  12273
+initial digits for line  220 : 3 3
+linenum with duplicate number:  sixfoursix333
+Found new first for line 220 : 6
+final digits for line  220 : 6 3
+Cal value for line 220 is: 63
+Total is:  12336
+initial digits for line  221 : 8 6
+Found new first for line 221 : 1
+final digits for line  221 : 1 6
+Cal value for line 221 is: 16
+Total is:  12352
+initial digits for line  222 : 3 3
+Found new last for line 222 : 8
+linenum with duplicate number:  bpnvgxjtwohmlgqpx3nineeightvnine
+Found new first for line 222 : 2
+final digits for line  222 : 2 8
+Cal value for line 222 is: 28
+Total is:  12380
+initial digits for line  223 : 9 8
+Found new last for line 223 : 6
+final digits for line  223 : 9 6
+Cal value for line 223 is: 96
+Total is:  12476
+initial digits for line  224 : 4 7
+final digits for line  224 : 4 7
+Cal value for line 224 is: 47
+Total is:  12523
+initial digits for line  225 : 6 7
+final digits for line  225 : 6 7
+Cal value for line 225 is: 67
+Total is:  12590
+initial digits for line  226 : 2 2
+Found new first for line 226 : 3
+final digits for line  226 : 3 2
+Cal value for line 226 is: 32
+Total is:  12622
+initial digits for line  227 : 8 8
+Found new first for line 227 : 5
+Found new last for line 227 : 8
+final digits for line  227 : 5 8
+Cal value for line 227 is: 58
+Total is:  12680
+initial digits for line  228 : 3 3
+Found new first for line 228 : 1
+Found new first for line 228 : 5
+Found new last for line 228 : 6
+Found new last for line 228 : 7
+final digits for line  228 : 5 7
+Cal value for line 228 is: 57
+Total is:  12737
+initial digits for line  229 : 4 6
+Found new first for line 229 : 9
+final digits for line  229 : 9 6
+Cal value for line 229 is: 96
+Total is:  12833
+initial digits for line  230 : 7 7
+Found new first for line 230 : 2
+Found new first for line 230 : 8
+final digits for line  230 : 8 7
+Cal value for line 230 is: 87
+Total is:  12920
+initial digits for line  231 : 4 1
+Found new last for line 231 : 6
+Found new first for line 231 : 8
+final digits for line  231 : 8 6
+Cal value for line 231 is: 86
+Total is:  13006
+initial digits for line  232 : 1 4
+Found new last for line 232 : 8
+final digits for line  232 : 1 8
+Cal value for line 232 is: 18
+Total is:  13024
+initial digits for line  233 : 7 7
+linenum with duplicate number:  jncvmkbone7vttpdnone
+Found new first for line 233 : 1
+Found new last for line 233 : 1
+final digits for line  233 : 1 1
+Cal value for line 233 is: 11
+Total is:  13035
+initial digits for line  234 : 7 7
+final digits for line  234 : 7 7
+Cal value for line 234 is: 77
+Total is:  13112
+initial digits for line  235 : 7 7
+Found new first for line 235 : 6
+final digits for line  235 : 6 7
+Cal value for line 235 is: 67
+Total is:  13179
+initial digits for line  236 : 4 4
+final digits for line  236 : 4 4
+Cal value for line 236 is: 44
+Total is:  13223
+initial digits for line  237 : 6 1
+Found new first for line 237 : 3
+final digits for line  237 : 3 1
+Cal value for line 237 is: 31
+Total is:  13254
+initial digits for line  238 : 2 4
+final digits for line  238 : 2 4
+Cal value for line 238 is: 24
+Total is:  13278
+initial digits for line  239 : 1 7
+Found new first for line 239 : 1
+final digits for line  239 : 1 7
+Cal value for line 239 is: 17
+Total is:  13295
+initial digits for line  240 : 3 2
+final digits for line  240 : 3 2
+Cal value for line 240 is: 32
+Total is:  13327
+initial digits for line  241 : 2 8
+Found new first for line 241 : 1
+Found new first for line 241 : 2
+final digits for line  241 : 2 8
+Cal value for line 241 is: 28
+Total is:  13355
+initial digits for line  242 : 5 5
+Found new last for line 242 : 7
+Found new first for line 242 : 1
+Found new first for line 242 : 2
+Found new last for line 242 : 4
+final digits for line  242 : 2 4
+Cal value for line 242 is: 24
+Total is:  13379
+initial digits for line  243 : 5 5
+final digits for line  243 : 5 5
+Cal value for line 243 is: 55
+Total is:  13434
+initial digits for line  244 : 4 3
+Found new last for line 244 : 3
+final digits for line  244 : 4 3
+Cal value for line 244 is: 43
+Total is:  13477
+initial digits for line  245 : 4 3
+final digits for line  245 : 4 3
+Cal value for line 245 is: 43
+Total is:  13520
+initial digits for line  246 : 1 1
+linenum with duplicate number:  eight1eight
+Found new first for line 246 : 8
+Found new last for line 246 : 8
+final digits for line  246 : 8 8
+Cal value for line 246 is: 88
+Total is:  13608
+initial digits for line  247 : 5 1
+Found new last for line 247 : 7
+final digits for line  247 : 5 7
+Cal value for line 247 is: 57
+Total is:  13665
+initial digits for line  248 : 1 7
+Found new last for line 248 : 9
+final digits for line  248 : 1 9
+Cal value for line 248 is: 19
+Total is:  13684
+initial digits for line  249 : 1 1
+Found new last for line 249 : 3
+linenum with duplicate number:  srtwoneeight1jeightoneeightthree
+Found new first for line 249 : 1
+Found new first for line 249 : 2
+linenum with duplicate number:  srtwoneeight1jeightoneeightthree
+final digits for line  249 : 2 3
+Cal value for line 249 is: 23
+Total is:  13707
+initial digits for line  250 : 4 4
+Found new last for line 250 : 9
+final digits for line  250 : 4 9
+Cal value for line 250 is: 49
+Total is:  13756
+initial digits for line  251 : 5 6
+final digits for line  251 : 5 6
+Cal value for line 251 is: 56
+Total is:  13812
+initial digits for line  252 : 5 7
+final digits for line  252 : 5 7
+Cal value for line 252 is: 57
+Total is:  13869
+initial digits for line  253 : 6 5
+Found new last for line 253 : 4
+final digits for line  253 : 6 4
+Cal value for line 253 is: 64
+Total is:  13933
+initial digits for line  254 : 5 5
+Found new last for line 254 : 1
+final digits for line  254 : 5 1
+Cal value for line 254 is: 51
+Total is:  13984
+initial digits for line  255 : 4 4
+Found new last for line 255 : 1
+final digits for line  255 : 4 1
+Cal value for line 255 is: 41
+Total is:  14025
+initial digits for line  256 : 3 9
+linenum with duplicate number:  39sevenfxlcsfnkmjninesevennineoneseven
+Found new last for line 256 : 7
+linenum with duplicate number:  39sevenfxlcsfnkmjninesevennineoneseven
+Found new last for line 256 : 9
+Found new last for line 256 : 1
+final digits for line  256 : 3 1
+Cal value for line 256 is: 31
+Total is:  14056
+initial digits for line  257 : 8 7
+Found new last for line 257 : 1
+Found new last for line 257 : 7
+final digits for line  257 : 8 7
+Cal value for line 257 is: 87
+Total is:  14143
+initial digits for line  258 : 4 9
+final digits for line  258 : 4 9
+Cal value for line 258 is: 49
+Total is:  14192
+initial digits for line  259 : 9 1
+linenum with duplicate number:  9ninervjgsjrrtwo1twonbxcvd
+final digits for line  259 : 9 1
+Cal value for line 259 is: 91
+Total is:  14283
+initial digits for line  260 : 8 9
+Found new last for line 260 : 1
+final digits for line  260 : 8 1
+Cal value for line 260 is: 81
+Total is:  14364
+initial digits for line  261 : 9 3
+Found new last for line 261 : 4
+final digits for line  261 : 9 4
+Cal value for line 261 is: 94
+Total is:  14458
+initial digits for line  262 : 8 4
+Found new last for line 262 : 9
+final digits for line  262 : 8 9
+Cal value for line 262 is: 89
+Total is:  14547
+initial digits for line  263 : 9 6
+linenum with duplicate number:  9onetwo9two6
+final digits for line  263 : 9 6
+Cal value for line 263 is: 96
+Total is:  14643
+initial digits for line  264 : 6 7
+Found new last for line 264 : 9
+final digits for line  264 : 6 9
+Cal value for line 264 is: 69
+Total is:  14712
+initial digits for line  265 : 6 7
+Found new first for line 265 : 5
+final digits for line  265 : 5 7
+Cal value for line 265 is: 57
+Total is:  14769
+initial digits for line  266 : 7 9
+final digits for line  266 : 7 9
+Cal value for line 266 is: 79
+Total is:  14848
+initial digits for line  267 : 8 8
+Found new first for line 267 : 1
+final digits for line  267 : 1 8
+Cal value for line 267 is: 18
+Total is:  14866
+initial digits for line  268 : 2 2
+final digits for line  268 : 2 2
+Cal value for line 268 is: 22
+Total is:  14888
+initial digits for line  269 : 5 8
+Found new last for line 269 : 5
+Found new last for line 269 : 6
+final digits for line  269 : 5 6
+Cal value for line 269 is: 56
+Total is:  14944
+initial digits for line  270 : 7 2
+Found new last for line 270 : 5
+Found new first for line 270 : 6
+final digits for line  270 : 6 5
+Cal value for line 270 is: 65
+Total is:  15009
+initial digits for line  271 : 6 6
+linenum with duplicate number:  6sevensevenmnxnbpmprd6
+final digits for line  271 : 6 6
+Cal value for line 271 is: 66
+Total is:  15075
+initial digits for line  272 : 2 2
+Found new first for line 272 : 5
+Found new last for line 272 : 9
+final digits for line  272 : 5 9
+Cal value for line 272 is: 59
+Total is:  15134
+initial digits for line  273 : 9 9
+linenum with duplicate number:  twotwokcmkzgkf9vfcmfqhzvseven
+Found new first for line 273 : 2
+Found new last for line 273 : 7
+final digits for line  273 : 2 7
+Cal value for line 273 is: 27
+Total is:  15161
+initial digits for line  274 : 4 2
+Found new last for line 274 : 4
+final digits for line  274 : 4 4
+Cal value for line 274 is: 44
+Total is:  15205
+initial digits for line  275 : 8 6
+final digits for line  275 : 8 6
+Cal value for line 275 is: 86
+Total is:  15291
+initial digits for line  276 : 9 9
+Found new first for line 276 : 1
+Found new first for line 276 : 2
+Found new last for line 276 : 5
+Found new first for line 276 : 8
+final digits for line  276 : 8 5
+Cal value for line 276 is: 85
+Total is:  15376
+initial digits for line  277 : 2 2
+final digits for line  277 : 2 2
+Cal value for line 277 is: 22
+Total is:  15398
+initial digits for line  278 : 7 5
+final digits for line  278 : 7 5
+Cal value for line 278 is: 75
+Total is:  15473
+initial digits for line  279 : 5 2
+final digits for line  279 : 5 2
+Cal value for line 279 is: 52
+Total is:  15525
+initial digits for line  280 : 2 2
+linenum with duplicate number:  2fiveqqdptvjxxnrnsrsixbeightfive
+Found new last for line 280 : 5
+Found new last for line 280 : 6
+Found new last for line 280 : 8
+final digits for line  280 : 2 8
+Cal value for line 280 is: 28
+Total is:  15553
+initial digits for line  281 : 1 4
+final digits for line  281 : 1 4
+Cal value for line 281 is: 14
+Total is:  15567
+initial digits for line  282 : 4 4
+linenum with duplicate number:  sixfive4sgxxgsix
+Found new first for line 282 : 6
+Found new last for line 282 : 6
+final digits for line  282 : 6 6
+Cal value for line 282 is: 66
+Total is:  15633
+initial digits for line  283 : 3 5
+final digits for line  283 : 3 5
+Cal value for line 283 is: 35
+Total is:  15668
+initial digits for line  284 : 6 6
+Found new last for line 284 : 6
+Found new first for line 284 : 2
+final digits for line  284 : 2 6
+Cal value for line 284 is: 26
+Total is:  15694
+initial digits for line  285 : 4 4
+Found new last for line 285 : 1
+final digits for line  285 : 4 1
+Cal value for line 285 is: 41
+Total is:  15735
+initial digits for line  286 : 1 2
+linenum with duplicate number:  five1five2rjftfiveseven
+Found new first for line 286 : 5
+Found new last for line 286 : 5
+Found new last for line 286 : 7
+final digits for line  286 : 5 7
+Cal value for line 286 is: 57
+Total is:  15792
+initial digits for line  287 : 6 5
+Found new last for line 287 : 4
+linenum with duplicate number:  kvdttwozhzcjk685fourtwolrbmnknp
+Found new first for line 287 : 2
+Found new last for line 287 : 2
+final digits for line  287 : 2 2
+Cal value for line 287 is: 22
+Total is:  15814
+initial digits for line  288 : 3 3
+Found new last for line 288 : 9
+final digits for line  288 : 3 9
+Cal value for line 288 is: 39
+Total is:  15853
+initial digits for line  289 : 4 4
+final digits for line  289 : 4 4
+Cal value for line 289 is: 44
+Total is:  15897
+initial digits for line  290 : 3 5
+Found new first for line 290 : 2
+linenum with duplicate number:  twotgnddfivefourcbfive35
+final digits for line  290 : 2 5
+Cal value for line 290 is: 25
+Total is:  15922
+initial digits for line  291 : 4 4
+Found new first for line 291 : 8
+final digits for line  291 : 8 4
+Cal value for line 291 is: 84
+Total is:  16006
+initial digits for line  292 : 7 1
+final digits for line  292 : 7 1
+Cal value for line 292 is: 71
+Total is:  16077
+initial digits for line  293 : 5 2
+final digits for line  293 : 5 2
+Cal value for line 293 is: 52
+Total is:  16129
+initial digits for line  294 : 4 9
+Found new first for line 294 : 4
+linenum with duplicate number:  fivefoursixdrscznhfivefive49
+Found new first for line 294 : 5
+final digits for line  294 : 5 9
+Cal value for line 294 is: 59
+Total is:  16188
+initial digits for line  295 : 4 9
+Found new last for line 295 : 9
+final digits for line  295 : 4 9
+Cal value for line 295 is: 49
+Total is:  16237
+initial digits for line  296 : 4 3
+Found new first for line 296 : 4
+final digits for line  296 : 4 3
+Cal value for line 296 is: 43
+Total is:  16280
+initial digits for line  297 : 7 7
+final digits for line  297 : 7 7
+Cal value for line 297 is: 77
+Total is:  16357
+initial digits for line  298 : 6 3
+linenum with duplicate number:  6four4fourddkk7cdhmdjx53
+final digits for line  298 : 6 3
+Cal value for line 298 is: 63
+Total is:  16420
+initial digits for line  299 : 3 9
+linenum with duplicate number:  3sevenseven8two4eightfive9
+final digits for line  299 : 3 9
+Cal value for line 299 is: 39
+Total is:  16459
+initial digits for line  300 : 6 6
+final digits for line  300 : 6 6
+Cal value for line 300 is: 66
+Total is:  16525
+initial digits for line  301 : 7 7
+Found new last for line 301 : 8
+final digits for line  301 : 7 8
+Cal value for line 301 is: 78
+Total is:  16603
+initial digits for line  302 : 8 7
+Found new last for line 302 : 5
+final digits for line  302 : 8 5
+Cal value for line 302 is: 85
+Total is:  16688
+initial digits for line  303 : 6 6
+Found new last for line 303 : 8
+Found new first for line 303 : 6
+Found new last for line 303 : 7
+final digits for line  303 : 6 7
+Cal value for line 303 is: 67
+Total is:  16755
+initial digits for line  304 : 9 3
+final digits for line  304 : 9 3
+Cal value for line 304 is: 93
+Total is:  16848
+initial digits for line  305 : 9 6
+Found new last for line 305 : 8
+Found new first for line 305 : 2
+final digits for line  305 : 2 8
+Cal value for line 305 is: 28
+Total is:  16876
+initial digits for line  306 : 8 3
+Found new first for line 306 : 6
+Found new last for line 306 : 4
+final digits for line  306 : 6 4
+Cal value for line 306 is: 64
+Total is:  16940
+initial digits for line  307 : 4 4
+Found new first for line 307 : 7
+final digits for line  307 : 7 4
+Cal value for line 307 is: 74
+Total is:  17014
+initial digits for line  308 : 5 3
+final digits for line  308 : 5 3
+Cal value for line 308 is: 53
+Total is:  17067
+initial digits for line  309 : 9 8
+linenum with duplicate number:  eight9288threeeight
+Found new first for line 309 : 8
+Found new last for line 309 : 8
+final digits for line  309 : 8 8
+Cal value for line 309 is: 88
+Total is:  17155
+initial digits for line  310 : 6 8
+Found new first for line 310 : 7
+Found new last for line 310 : 9
+final digits for line  310 : 7 9
+Cal value for line 310 is: 79
+Total is:  17234
+initial digits for line  311 : 3 3
+Found new last for line 311 : 4
+Found new first for line 311 : 1
+final digits for line  311 : 1 4
+Cal value for line 311 is: 14
+Total is:  17248
+initial digits for line  312 : 6 2
+Found new first for line 312 : 9
+final digits for line  312 : 9 2
+Cal value for line 312 is: 92
+Total is:  17340
+initial digits for line  313 : 4 4
+Found new first for line 313 : 5
+final digits for line  313 : 5 4
+Cal value for line 313 is: 54
+Total is:  17394
+initial digits for line  314 : 3 3
+Found new first for line 314 : 7
+Found new last for line 314 : 9
+final digits for line  314 : 7 9
+Cal value for line 314 is: 79
+Total is:  17473
+initial digits for line  315 : 3 4
+Found new first for line 315 : 5
+Found new first for line 315 : 1
+final digits for line  315 : 1 4
+Cal value for line 315 is: 14
+Total is:  17487
+initial digits for line  316 : 9 8
+Found new last for line 316 : 9
+final digits for line  316 : 9 9
+Cal value for line 316 is: 99
+Total is:  17586
+initial digits for line  317 : 9 9
+Found new first for line 317 : 9
+Found new first for line 317 : 2
+Found new last for line 317 : 8
+final digits for line  317 : 2 8
+Cal value for line 317 is: 28
+Total is:  17614
+initial digits for line  318 : 7 4
+final digits for line  318 : 7 4
+Cal value for line 318 is: 74
+Total is:  17688
+initial digits for line  319 : 2 2
+Found new last for line 319 : 5
+Found new last for line 319 : 6
+final digits for line  319 : 2 6
+Cal value for line 319 is: 26
+Total is:  17714
+initial digits for line  320 : 9 4
+Found new last for line 320 : 1
+final digits for line  320 : 9 1
+Cal value for line 320 is: 91
+Total is:  17805
+initial digits for line  321 : 8 8
+Found new last for line 321 : 2
+final digits for line  321 : 8 2
+Cal value for line 321 is: 82
+Total is:  17887
+initial digits for line  322 : 9 9
+final digits for line  322 : 9 9
+Cal value for line 322 is: 99
+Total is:  17986
+initial digits for line  323 : 9 9
+final digits for line  323 : 9 9
+Cal value for line 323 is: 99
+Total is:  18085
+initial digits for line  324 : 1 7
+linenum with duplicate number:  11fivedpgmrxptconebdvhfbvfvxfive17
+final digits for line  324 : 1 7
+Cal value for line 324 is: 17
+Total is:  18102
+initial digits for line  325 : 9 5
+Found new first for line 325 : 2
+Found new first for line 325 : 3
+Found new first for line 325 : 5
+final digits for line  325 : 5 5
+Cal value for line 325 is: 55
+Total is:  18157
+initial digits for line  326 : 7 7
+Found new first for line 326 : 4
+linenum with duplicate number:  ninefourtwo7zjcsfhcfnine
+Found new first for line 326 : 9
+Found new last for line 326 : 9
+final digits for line  326 : 9 9
+Cal value for line 326 is: 99
+Total is:  18256
+initial digits for line  327 : 6 2
+final digits for line  327 : 6 2
+Cal value for line 327 is: 62
+Total is:  18318
+initial digits for line  328 : 1 4
+Found new first for line 328 : 5
+final digits for line  328 : 5 4
+Cal value for line 328 is: 54
+Total is:  18372
+initial digits for line  329 : 6 3
+Found new first for line 329 : 8
+final digits for line  329 : 8 3
+Cal value for line 329 is: 83
+Total is:  18455
+initial digits for line  330 : 6 8
+Found new first for line 330 : 3
+Found new first for line 330 : 4
+final digits for line  330 : 4 8
+Cal value for line 330 is: 48
+Total is:  18503
+initial digits for line  331 : 5 4
+Found new first for line 331 : 8
+Found new last for line 331 : 1
+final digits for line  331 : 8 1
+Cal value for line 331 is: 81
+Total is:  18584
+initial digits for line  332 : 5 5
+final digits for line  332 : 5 5
+Cal value for line 332 is: 55
+Total is:  18639
+initial digits for line  333 : 1 7
+final digits for line  333 : 1 7
+Cal value for line 333 is: 17
+Total is:  18656
+initial digits for line  334 : 3 3
+Found new last for line 334 : 1
+Found new first for line 334 : 3
+final digits for line  334 : 3 1
+Cal value for line 334 is: 31
+Total is:  18687
+initial digits for line  335 : 2 4
+Found new last for line 335 : 3
+Found new last for line 335 : 6
+Found new first for line 335 : 2
+final digits for line  335 : 2 6
+Cal value for line 335 is: 26
+Total is:  18713
+initial digits for line  336 : 7 3
+final digits for line  336 : 7 3
+Cal value for line 336 is: 73
+Total is:  18786
+initial digits for line  337 : 9 4
+Found new first for line 337 : 6
+Found new first for line 337 : 1
+final digits for line  337 : 1 4
+Cal value for line 337 is: 14
+Total is:  18800
+initial digits for line  338 : 2 2
+Found new last for line 338 : 2
+Found new first for line 338 : 7
+final digits for line  338 : 7 2
+Cal value for line 338 is: 72
+Total is:  18872
+initial digits for line  339 : 9 9
+linenum with duplicate number:  six9nineninedpsixpqcl
+Found new last for line 339 : 9
+linenum with duplicate number:  six9nineninedpsixpqcl
+Found new first for line 339 : 6
+Found new last for line 339 : 6
+final digits for line  339 : 6 6
+Cal value for line 339 is: 66
+Total is:  18938
+initial digits for line  340 : 5 1
+Found new first for line 340 : 2
+final digits for line  340 : 2 1
+Cal value for line 340 is: 21
+Total is:  18959
+initial digits for line  341 : 8 8
+Found new first for line 341 : 6
+final digits for line  341 : 6 8
+Cal value for line 341 is: 68
+Total is:  19027
+initial digits for line  342 : 1 9
+Found new last for line 342 : 2
+Found new first for line 342 : 7
+final digits for line  342 : 7 2
+Cal value for line 342 is: 72
+Total is:  19099
+initial digits for line  343 : 4 8
+final digits for line  343 : 4 8
+Cal value for line 343 is: 48
+Total is:  19147
+initial digits for line  344 : 5 3
+Found new last for line 344 : 7
+final digits for line  344 : 5 7
+Cal value for line 344 is: 57
+Total is:  19204
+initial digits for line  345 : 6 6
+Found new last for line 345 : 8
+final digits for line  345 : 6 8
+Cal value for line 345 is: 68
+Total is:  19272
+initial digits for line  346 : 7 4
+Found new first for line 346 : 8
+final digits for line  346 : 8 4
+Cal value for line 346 is: 84
+Total is:  19356
+initial digits for line  347 : 9 3
+Found new last for line 347 : 2
+final digits for line  347 : 9 2
+Cal value for line 347 is: 92
+Total is:  19448
+initial digits for line  348 : 3 1
+final digits for line  348 : 3 1
+Cal value for line 348 is: 31
+Total is:  19479
+initial digits for line  349 : 4 4
+Found new first for line 349 : 7
+final digits for line  349 : 7 4
+Cal value for line 349 is: 74
+Total is:  19553
+initial digits for line  350 : 8 4
+Found new first for line 350 : 1
+final digits for line  350 : 1 4
+Cal value for line 350 is: 14
+Total is:  19567
+initial digits for line  351 : 4 3
+final digits for line  351 : 4 3
+Cal value for line 351 is: 43
+Total is:  19610
+initial digits for line  352 : 7 7
+Found new first for line 352 : 8
+final digits for line  352 : 8 7
+Cal value for line 352 is: 87
+Total is:  19697
+initial digits for line  353 : 6 7
+final digits for line  353 : 6 7
+Cal value for line 353 is: 67
+Total is:  19764
+initial digits for line  354 : 7 7
+final digits for line  354 : 7 7
+Cal value for line 354 is: 77
+Total is:  19841
+initial digits for line  355 : 8 6
+final digits for line  355 : 8 6
+Cal value for line 355 is: 86
+Total is:  19927
+initial digits for line  356 : 2 3
+final digits for line  356 : 2 3
+Cal value for line 356 is: 23
+Total is:  19950
+initial digits for line  357 : 5 7
+final digits for line  357 : 5 7
+Cal value for line 357 is: 57
+Total is:  20007
+initial digits for line  358 : 7 7
+Found new first for line 358 : 8
+Found new last for line 358 : 3
+final digits for line  358 : 8 3
+Cal value for line 358 is: 83
+Total is:  20090
+initial digits for line  359 : 8 8
+Found new last for line 359 : 6
+final digits for line  359 : 8 6
+Cal value for line 359 is: 86
+Total is:  20176
+initial digits for line  360 : 9 2
+final digits for line  360 : 9 2
+Cal value for line 360 is: 92
+Total is:  20268
+initial digits for line  361 : 5 5
+Found new last for line 361 : 5
+linenum with duplicate number:  jkzntwo5fiveonetwonec
+Found new last for line 361 : 1
+linenum with duplicate number:  jkzntwo5fiveonetwonec
+Found new first for line 361 : 2
+Found new last for line 361 : 2
+final digits for line  361 : 2 2
+Cal value for line 361 is: 22
+Total is:  20290
+initial digits for line  362 : 4 8
+Found new last for line 362 : 7
+final digits for line  362 : 4 7
+Cal value for line 362 is: 47
+Total is:  20337
+initial digits for line  363 : 7 7
+Found new last for line 363 : 1
+final digits for line  363 : 7 1
+Cal value for line 363 is: 71
+Total is:  20408
+initial digits for line  364 : 2 2
+Found new first for line 364 : 6
+Found new last for line 364 : 2
+final digits for line  364 : 6 2
+Cal value for line 364 is: 62
+Total is:  20470
+initial digits for line  365 : 4 6
+Found new last for line 365 : 1
+final digits for line  365 : 4 1
+Cal value for line 365 is: 41
+Total is:  20511
+initial digits for line  366 : 3 2
+linenum with duplicate number:  przvrp3ninethreenine2
+final digits for line  366 : 3 2
+Cal value for line 366 is: 32
+Total is:  20543
+initial digits for line  367 : 2 2
+Found new first for line 367 : 9
+final digits for line  367 : 9 2
+Cal value for line 367 is: 92
+Total is:  20635
+initial digits for line  368 : 9 9
+Found new last for line 368 : 2
+Found new first for line 368 : 6
+final digits for line  368 : 6 2
+Cal value for line 368 is: 62
+Total is:  20697
+initial digits for line  369 : 5 6
+final digits for line  369 : 5 6
+Cal value for line 369 is: 56
+Total is:  20753
+initial digits for line  370 : 6 6
+linenum with duplicate number:  6onevndbhone
+Found new last for line 370 : 1
+final digits for line  370 : 6 1
+Cal value for line 370 is: 61
+Total is:  20814
+initial digits for line  371 : 4 4
+final digits for line  371 : 4 4
+Cal value for line 371 is: 44
+Total is:  20858
+initial digits for line  372 : 4 4
+linenum with duplicate number:  xdnbtxgtjrgffourseven4threehzqxzqfourseven
+Found new first for line 372 : 7
+Found new last for line 372 : 7
+linenum with duplicate number:  xdnbtxgtjrgffourseven4threehzqxzqfourseven
+Found new first for line 372 : 4
+final digits for line  372 : 4 7
+Cal value for line 372 is: 47
+Total is:  20905
+initial digits for line  373 : 2 2
+final digits for line  373 : 2 2
+Cal value for line 373 is: 22
+Total is:  20927
+initial digits for line  374 : 6 6
+Found new first for line 374 : 3
+final digits for line  374 : 3 6
+Cal value for line 374 is: 36
+Total is:  20963
+initial digits for line  375 : 4 2
+Found new last for line 375 : 7
+Found new first for line 375 : 2
+final digits for line  375 : 2 7
+Cal value for line 375 is: 27
+Total is:  20990
+initial digits for line  376 : 2 2
+Found new first for line 376 : 3
+final digits for line  376 : 3 2
+Cal value for line 376 is: 32
+Total is:  21022
+initial digits for line  377 : 2 9
+linenum with duplicate number:  knvgqtqvn22jkjnxbxpkdfourfour9
+final digits for line  377 : 2 9
+Cal value for line 377 is: 29
+Total is:  21051
+initial digits for line  378 : 2 6
+final digits for line  378 : 2 6
+Cal value for line 378 is: 26
+Total is:  21077
+initial digits for line  379 : 2 8
+linenum with duplicate number:  eighttbxsheight2phksevenptwo8
+Found new first for line 379 : 8
+final digits for line  379 : 8 8
+Cal value for line 379 is: 88
+Total is:  21165
+initial digits for line  380 : 8 1
+Found new first for line 380 : 7
+final digits for line  380 : 7 1
+Cal value for line 380 is: 71
+Total is:  21236
+initial digits for line  381 : 1 6
+linenum with duplicate number:  three1626jvfqthree
+Found new first for line 381 : 3
+Found new last for line 381 : 3
+final digits for line  381 : 3 3
+Cal value for line 381 is: 33
+Total is:  21269
+initial digits for line  382 : 9 4
+final digits for line  382 : 9 4
+Cal value for line 382 is: 94
+Total is:  21363
+initial digits for line  383 : 9 9
+Found new last for line 383 : 9
+final digits for line  383 : 9 9
+Cal value for line 383 is: 99
+Total is:  21462
+initial digits for line  384 : 6 1
+linenum with duplicate number:  6fourfourninethreesixfourfive1
+final digits for line  384 : 6 1
+Cal value for line 384 is: 61
+Total is:  21523
+initial digits for line  385 : 6 6
+Found new first for line 385 : 8
+Found new first for line 385 : 3
+final digits for line  385 : 3 6
+Cal value for line 385 is: 36
+Total is:  21559
+initial digits for line  386 : 9 9
+Found new first for line 386 : 5
+Found new first for line 386 : 3
+final digits for line  386 : 3 9
+Cal value for line 386 is: 39
+Total is:  21598
+initial digits for line  387 : 6 3
+linenum with duplicate number:  65rpk2six7six3
+final digits for line  387 : 6 3
+Cal value for line 387 is: 63
+Total is:  21661
+initial digits for line  388 : 8 3
+final digits for line  388 : 8 3
+Cal value for line 388 is: 83
+Total is:  21744
+initial digits for line  389 : 3 5
+Found new last for line 389 : 8
+Found new last for line 389 : 2
+linenum with duplicate number:  3four5gtdsnljslceightnmtfbktwojnvqfour
+final digits for line  389 : 3 2
+Cal value for line 389 is: 32
+Total is:  21776
+initial digits for line  390 : 7 4
+final digits for line  390 : 7 4
+Cal value for line 390 is: 74
+Total is:  21850
+initial digits for line  391 : 2 9
+Found new first for line 391 : 2
+final digits for line  391 : 2 9
+Cal value for line 391 is: 29
+Total is:  21879
+initial digits for line  392 : 4 4
+Found new last for line 392 : 1
+Found new first for line 392 : 8
+final digits for line  392 : 8 1
+Cal value for line 392 is: 81
+Total is:  21960
+initial digits for line  393 : 1 1
+final digits for line  393 : 1 1
+Cal value for line 393 is: 11
+Total is:  21971
+initial digits for line  394 : 8 8
+Found new last for line 394 : 3
+final digits for line  394 : 8 3
+Cal value for line 394 is: 83
+Total is:  22054
+initial digits for line  395 : 6 1
+Found new first for line 395 : 8
+final digits for line  395 : 8 1
+Cal value for line 395 is: 81
+Total is:  22135
+initial digits for line  396 : 5 1
+Found new last for line 396 : 3
+final digits for line  396 : 5 3
+Cal value for line 396 is: 53
+Total is:  22188
+initial digits for line  397 : 8 8
+Found new last for line 397 : 8
+final digits for line  397 : 8 8
+Cal value for line 397 is: 88
+Total is:  22276
+initial digits for line  398 : 6 6
+final digits for line  398 : 6 6
+Cal value for line 398 is: 66
+Total is:  22342
+initial digits for line  399 : 5 5
+Found new first for line 399 : 2
+final digits for line  399 : 2 5
+Cal value for line 399 is: 25
+Total is:  22367
+initial digits for line  400 : 2 2
+Found new first for line 400 : 7
+Found new last for line 400 : 1
+final digits for line  400 : 7 1
+Cal value for line 400 is: 71
+Total is:  22438
+initial digits for line  401 : 6 6
+linenum with duplicate number:  fiveeightsevenfive6onetwo
+Found new first for line 401 : 5
+Found new last for line 401 : 1
+Found new last for line 401 : 2
+final digits for line  401 : 5 2
+Cal value for line 401 is: 52
+Total is:  22490
+initial digits for line  402 : 8 2
+Found new last for line 402 : 7
+final digits for line  402 : 8 7
+Cal value for line 402 is: 87
+Total is:  22577
+initial digits for line  403 : 1 1
+Found new first for line 403 : 1
+Found new first for line 403 : 5
+final digits for line  403 : 5 1
+Cal value for line 403 is: 51
+Total is:  22628
+initial digits for line  404 : 3 8
+final digits for line  404 : 3 8
+Cal value for line 404 is: 38
+Total is:  22666
+initial digits for line  405 : 1 1
+linenum with duplicate number:  fivethreeninenine1skhctbxcckztkq
+Found new first for line 405 : 9
+Found new first for line 405 : 3
+Found new first for line 405 : 5
+final digits for line  405 : 5 1
+Cal value for line 405 is: 51
+Total is:  22717
+initial digits for line  406 : 7 1
+linenum with duplicate number:  threeppn71threelfourvpqfour
+Found new first for line 406 : 3
+Found new last for line 406 : 3
+linenum with duplicate number:  threeppn71threelfourvpqfour
+Found new last for line 406 : 4
+final digits for line  406 : 3 4
+Cal value for line 406 is: 34
+Total is:  22751
+initial digits for line  407 : 9 9
+Found new first for line 407 : 2
+Found new first for line 407 : 9
+final digits for line  407 : 9 9
+Cal value for line 407 is: 99
+Total is:  22850
+initial digits for line  408 : 5 1
+final digits for line  408 : 5 1
+Cal value for line 408 is: 51
+Total is:  22901
+initial digits for line  409 : 1 1
+final digits for line  409 : 1 1
+Cal value for line 409 is: 11
+Total is:  22912
+initial digits for line  410 : 9 9
+Found new first for line 410 : 8
+final digits for line  410 : 8 9
+Cal value for line 410 is: 89
+Total is:  23001
+initial digits for line  411 : 9 9
+Found new last for line 411 : 3
+final digits for line  411 : 9 3
+Cal value for line 411 is: 93
+Total is:  23094
+initial digits for line  412 : 3 8
+Found new last for line 412 : 4
+final digits for line  412 : 3 4
+Cal value for line 412 is: 34
+Total is:  23128
+initial digits for line  413 : 6 6
+Found new last for line 413 : 1
+Found new last for line 413 : 3
+final digits for line  413 : 6 3
+Cal value for line 413 is: 63
+Total is:  23191
+initial digits for line  414 : 3 3
+linenum with duplicate number:  fivefiveninesixninethree3
+Found new first for line 414 : 9
+linenum with duplicate number:  fivefiveninesixninethree3
+Found new first for line 414 : 5
+final digits for line  414 : 5 3
+Cal value for line 414 is: 53
+Total is:  23244
+initial digits for line  415 : 2 2
+final digits for line  415 : 2 2
+Cal value for line 415 is: 22
+Total is:  23266
+initial digits for line  416 : 8 8
+linenum with duplicate number:  d8hhbbgfoursixfour
+Found new last for line 416 : 4
+Found new last for line 416 : 6
+final digits for line  416 : 8 6
+Cal value for line 416 is: 86
+Total is:  23352
+initial digits for line  417 : 9 9
+Found new last for line 417 : 9
+Found new last for line 417 : 5
+final digits for line  417 : 9 5
+Cal value for line 417 is: 95
+Total is:  23447
+initial digits for line  418 : 9 8
+Found new first for line 418 : 4
+linenum with duplicate number:  onefourone9eight1sixdftmmzmj8
+Found new first for line 418 : 1
+final digits for line  418 : 1 8
+Cal value for line 418 is: 18
+Total is:  23465
+initial digits for line  419 : 1 9
+Found new last for line 419 : 4
+final digits for line  419 : 1 4
+Cal value for line 419 is: 14
+Total is:  23479
+initial digits for line  420 : 2 2
+Found new first for line 420 : 9
+final digits for line  420 : 9 2
+Cal value for line 420 is: 92
+Total is:  23571
+initial digits for line  421 : 2 9
+linenum with duplicate number:  ninerhqpddslsh22sevennine9
+Found new first for line 421 : 9
+final digits for line  421 : 9 9
+Cal value for line 421 is: 99
+Total is:  23670
+initial digits for line  422 : 3 2
+final digits for line  422 : 3 2
+Cal value for line 422 is: 32
+Total is:  23702
+initial digits for line  423 : 2 2
+Found new last for line 423 : 8
+final digits for line  423 : 2 8
+Cal value for line 423 is: 28
+Total is:  23730
+initial digits for line  424 : 6 6
+Found new first for line 424 : 4
+Found new first for line 424 : 5
+final digits for line  424 : 5 6
+Cal value for line 424 is: 56
+Total is:  23786
+initial digits for line  425 : 6 1
+final digits for line  425 : 6 1
+Cal value for line 425 is: 61
+Total is:  23847
+initial digits for line  426 : 6 8
+final digits for line  426 : 6 8
+Cal value for line 426 is: 68
+Total is:  23915
+initial digits for line  427 : 9 6
+final digits for line  427 : 9 6
+Cal value for line 427 is: 96
+Total is:  24011
+initial digits for line  428 : 2 8
+final digits for line  428 : 2 8
+Cal value for line 428 is: 28
+Total is:  24039
+initial digits for line  429 : 4 5
+Found new first for line 429 : 5
+final digits for line  429 : 5 5
+Cal value for line 429 is: 55
+Total is:  24094
+initial digits for line  430 : 9 3
+final digits for line  430 : 9 3
+Cal value for line 430 is: 93
+Total is:  24187
+initial digits for line  431 : 6 6
+final digits for line  431 : 6 6
+Cal value for line 431 is: 66
+Total is:  24253
+initial digits for line  432 : 4 4
+Found new last for line 432 : 7
+Found new last for line 432 : 2
+final digits for line  432 : 4 2
+Cal value for line 432 is: 42
+Total is:  24295
+initial digits for line  433 : 3 4
+final digits for line  433 : 3 4
+Cal value for line 433 is: 34
+Total is:  24329
+initial digits for line  434 : 8 5
+Found new last for line 434 : 5
+final digits for line  434 : 8 5
+Cal value for line 434 is: 85
+Total is:  24414
+initial digits for line  435 : 6 6
+Found new last for line 435 : 4
+final digits for line  435 : 6 4
+Cal value for line 435 is: 64
+Total is:  24478
+initial digits for line  436 : 4 4
+Found new first for line 436 : 5
+final digits for line  436 : 5 4
+Cal value for line 436 is: 54
+Total is:  24532
+initial digits for line  437 : 9 9
+Found new last for line 437 : 8
+Found new first for line 437 : 7
+final digits for line  437 : 7 8
+Cal value for line 437 is: 78
+Total is:  24610
+initial digits for line  438 : 5 2
+final digits for line  438 : 5 2
+Cal value for line 438 is: 52
+Total is:  24662
+initial digits for line  439 : 7 7
+Found new last for line 439 : 8
+Found new last for line 439 : 7
+linenum with duplicate number:  xvrrqtr7onefouroneeightseven
+final digits for line  439 : 7 7
+Cal value for line 439 is: 77
+Total is:  24739
+initial digits for line  440 : 6 6
+Found new last for line 440 : 5
+final digits for line  440 : 6 5
+Cal value for line 440 is: 65
+Total is:  24804
+initial digits for line  441 : 1 1
+Found new last for line 441 : 7
+Found new last for line 441 : 9
+final digits for line  441 : 1 9
+Cal value for line 441 is: 19
+Total is:  24823
+initial digits for line  442 : 1 1
+linenum with duplicate number:  1tsixsixdxqfdhpbsixthree
+Found new last for line 442 : 6
+Found new last for line 442 : 3
+final digits for line  442 : 1 3
+Cal value for line 442 is: 13
+Total is:  24836
+initial digits for line  443 : 9 9
+linenum with duplicate number:  h9twobfmqltwo
+Found new last for line 443 : 2
+final digits for line  443 : 9 2
+Cal value for line 443 is: 92
+Total is:  24928
+initial digits for line  444 : 7 4
+Found new first for line 444 : 8
+linenum with duplicate number:  eightrqlgqbmdcj7fourjbfourptdprg4
+final digits for line  444 : 8 4
+Cal value for line 444 is: 84
+Total is:  25012
+initial digits for line  445 : 6 8
+Found new last for line 445 : 9
+Found new last for line 445 : 2
+final digits for line  445 : 6 2
+Cal value for line 445 is: 62
+Total is:  25074
+initial digits for line  446 : 6 7
+Found new last for line 446 : 4
+Found new last for line 446 : 6
+final digits for line  446 : 6 6
+Cal value for line 446 is: 66
+Total is:  25140
+initial digits for line  447 : 4 1
+Found new first for line 447 : 4
+Found new last for line 447 : 3
+final digits for line  447 : 4 3
+Cal value for line 447 is: 43
+Total is:  25183
+initial digits for line  448 : 3 5
+Found new first for line 448 : 8
+final digits for line  448 : 8 5
+Cal value for line 448 is: 85
+Total is:  25268
+initial digits for line  449 : 5 5
+Found new last for line 449 : 3
+Found new last for line 449 : 9
+final digits for line  449 : 5 9
+Cal value for line 449 is: 59
+Total is:  25327
+initial digits for line  450 : 3 9
+Found new first for line 450 : 5
+final digits for line  450 : 5 9
+Cal value for line 450 is: 59
+Total is:  25386
+initial digits for line  451 : 9 6
+Found new first for line 451 : 7
+final digits for line  451 : 7 6
+Cal value for line 451 is: 76
+Total is:  25462
+initial digits for line  452 : 6 4
+Found new first for line 452 : 1
+final digits for line  452 : 1 4
+Cal value for line 452 is: 14
+Total is:  25476
+initial digits for line  453 : 5 5
+final digits for line  453 : 5 5
+Cal value for line 453 is: 55
+Total is:  25531
+initial digits for line  454 : 9 1
+final digits for line  454 : 9 1
+Cal value for line 454 is: 91
+Total is:  25622
+initial digits for line  455 : 1 1
+Found new last for line 455 : 2
+final digits for line  455 : 1 2
+Cal value for line 455 is: 12
+Total is:  25634
+initial digits for line  456 : 3 8
+final digits for line  456 : 3 8
+Cal value for line 456 is: 38
+Total is:  25672
+initial digits for line  457 : 9 1
+linenum with duplicate number:  fourjhqxgjrms9oneone78four1
+linenum with duplicate number:  fourjhqxgjrms9oneone78four1
+Found new first for line 457 : 4
+final digits for line  457 : 4 1
+Cal value for line 457 is: 41
+Total is:  25713
+initial digits for line  458 : 9 2
+final digits for line  458 : 9 2
+Cal value for line 458 is: 92
+Total is:  25805
+initial digits for line  459 : 9 9
+Found new last for line 459 : 6
+Found new first for line 459 : 1
+final digits for line  459 : 1 6
+Cal value for line 459 is: 16
+Total is:  25821
+initial digits for line  460 : 8 2
+final digits for line  460 : 8 2
+Cal value for line 460 is: 82
+Total is:  25903
+initial digits for line  461 : 3 8
+Found new last for line 461 : 7
+linenum with duplicate number:  threepnp3hdvphnthree8seventhree
+Found new first for line 461 : 3
+Found new last for line 461 : 3
+final digits for line  461 : 3 3
+Cal value for line 461 is: 33
+Total is:  25936
+initial digits for line  462 : 4 7
+linenum with duplicate number:  three441seven7fourthree
+Found new first for line 462 : 3
+Found new last for line 462 : 3
+final digits for line  462 : 3 3
+Cal value for line 462 is: 33
+Total is:  25969
+initial digits for line  463 : 9 9
+Found new last for line 463 : 5
+final digits for line  463 : 9 5
+Cal value for line 463 is: 95
+Total is:  26064
+initial digits for line  464 : 4 8
+Found new first for line 464 : 1
+Found new first for line 464 : 2
+final digits for line  464 : 2 8
+Cal value for line 464 is: 28
+Total is:  26092
+initial digits for line  465 : 5 4
+Found new last for line 465 : 8
+final digits for line  465 : 5 8
+Cal value for line 465 is: 58
+Total is:  26150
+initial digits for line  466 : 8 8
+Found new first for line 466 : 9
+final digits for line  466 : 9 8
+Cal value for line 466 is: 98
+Total is:  26248
+initial digits for line  467 : 9 1
+linenum with duplicate number:  sevenntxmdvhb931sevenninethree
+Found new first for line 467 : 7
+Found new last for line 467 : 7
+Found new last for line 467 : 9
+Found new last for line 467 : 3
+final digits for line  467 : 7 3
+Cal value for line 467 is: 73
+Total is:  26321
+initial digits for line  468 : 9 7
+final digits for line  468 : 9 7
+Cal value for line 468 is: 97
+Total is:  26418
+initial digits for line  469 : 5 5
+Found new first for line 469 : 7
+final digits for line  469 : 7 5
+Cal value for line 469 is: 75
+Total is:  26493
+initial digits for line  470 : 1 3
+Found new first for line 470 : 3
+final digits for line  470 : 3 3
+Cal value for line 470 is: 33
+Total is:  26526
+initial digits for line  471 : 2 1
+linenum with duplicate number:  gjdv22two1twoq
+final digits for line  471 : 2 1
+Cal value for line 471 is: 21
+Total is:  26547
+initial digits for line  472 : 2 2
+Found new last for line 472 : 2
+Found new last for line 472 : 3
+final digits for line  472 : 2 3
+Cal value for line 472 is: 23
+Total is:  26570
+initial digits for line  473 : 4 4
+Found new first for line 473 : 3
+final digits for line  473 : 3 4
+Cal value for line 473 is: 34
+Total is:  26604
+initial digits for line  474 : 6 9
+final digits for line  474 : 6 9
+Cal value for line 474 is: 69
+Total is:  26673
+initial digits for line  475 : 6 6
+Found new last for line 475 : 4
+final digits for line  475 : 6 4
+Cal value for line 475 is: 64
+Total is:  26737
+initial digits for line  476 : 1 2
+Found new first for line 476 : 3
+final digits for line  476 : 3 2
+Cal value for line 476 is: 32
+Total is:  26769
+initial digits for line  477 : 5 5
+final digits for line  477 : 5 5
+Cal value for line 477 is: 55
+Total is:  26824
+initial digits for line  478 : 2 1
+final digits for line  478 : 2 1
+Cal value for line 478 is: 21
+Total is:  26845
+initial digits for line  479 : 6 7
+linenum with duplicate number:  gg64onerksrfour7four
+final digits for line  479 : 6 7
+Cal value for line 479 is: 67
+Total is:  26912
+initial digits for line  480 : 4 7
+Found new last for line 480 : 7
+linenum with duplicate number:  eight47ppeightsevengpzkn
+Found new first for line 480 : 8
+final digits for line  480 : 8 7
+Cal value for line 480 is: 87
+Total is:  26999
+initial digits for line  481 : 9 2
+final digits for line  481 : 9 2
+Cal value for line 481 is: 92
+Total is:  27091
+initial digits for line  482 : 8 8
+linenum with duplicate number:  sevenjrnine8fivesixfivefour
+Found new last for line 482 : 5
+Found new last for line 482 : 6
+Found new first for line 482 : 7
+Found new last for line 482 : 4
+final digits for line  482 : 7 4
+Cal value for line 482 is: 74
+Total is:  27165
+initial digits for line  483 : 8 9
+final digits for line  483 : 8 9
+Cal value for line 483 is: 89
+Total is:  27254
+initial digits for line  484 : 2 5
+Found new last for line 484 : 7
+Found new first for line 484 : 9
+Found new first for line 484 : 6
+final digits for line  484 : 6 7
+Cal value for line 484 is: 67
+Total is:  27321
+initial digits for line  485 : 9 9
+final digits for line  485 : 9 9
+Cal value for line 485 is: 99
+Total is:  27420
+initial digits for line  486 : 2 7
+Found new first for line 486 : 5
+Found new last for line 486 : 2
+final digits for line  486 : 5 2
+Cal value for line 486 is: 52
+Total is:  27472
+initial digits for line  487 : 9 9
+final digits for line  487 : 9 9
+Cal value for line 487 is: 99
+Total is:  27571
+initial digits for line  488 : 8 2
+linenum with duplicate number:  vsqfourgdkrzkf87four2seven
+Found new first for line 488 : 4
+Found new last for line 488 : 7
+final digits for line  488 : 4 7
+Cal value for line 488 is: 47
+Total is:  27618
+initial digits for line  489 : 9 3
+linenum with duplicate number:  two9eighteight42four3
+Found new first for line 489 : 2
+final digits for line  489 : 2 3
+Cal value for line 489 is: 23
+Total is:  27641
+initial digits for line  490 : 9 7
+Found new first for line 490 : 8
+final digits for line  490 : 8 7
+Cal value for line 490 is: 87
+Total is:  27728
+initial digits for line  491 : 8 2
+Found new first for line 491 : 2
+final digits for line  491 : 2 2
+Cal value for line 491 is: 22
+Total is:  27750
+initial digits for line  492 : 3 1
+Found new last for line 492 : 6
+final digits for line  492 : 3 6
+Cal value for line 492 is: 36
+Total is:  27786
+initial digits for line  493 : 8 7
+Found new first for line 493 : 6
+final digits for line  493 : 6 7
+Cal value for line 493 is: 67
+Total is:  27853
+initial digits for line  494 : 7 7
+Found new first for line 494 : 9
+final digits for line  494 : 9 7
+Cal value for line 494 is: 97
+Total is:  27950
+initial digits for line  495 : 4 8
+Found new last for line 495 : 2
+Found new last for line 495 : 3
+final digits for line  495 : 4 3
+Cal value for line 495 is: 43
+Total is:  27993
+initial digits for line  496 : 5 5
+Found new last for line 496 : 8
+final digits for line  496 : 5 8
+Cal value for line 496 is: 58
+Total is:  28051
+initial digits for line  497 : 8 1
+linenum with duplicate number:  seven85seven1
+Found new first for line 497 : 7
+final digits for line  497 : 7 1
+Cal value for line 497 is: 71
+Total is:  28122
+initial digits for line  498 : 9 9
+Found new first for line 498 : 8
+Found new first for line 498 : 3
+final digits for line  498 : 3 9
+Cal value for line 498 is: 39
+Total is:  28161
+initial digits for line  499 : 7 7
+Found new last for line 499 : 8
+Found new last for line 499 : 1
+final digits for line  499 : 7 1
+Cal value for line 499 is: 71
+Total is:  28232
+initial digits for line  500 : 9 7
+final digits for line  500 : 9 7
+Cal value for line 500 is: 97
+Total is:  28329
+initial digits for line  501 : 2 2
+Found new first for line 501 : 5
+Found new first for line 501 : 7
+final digits for line  501 : 7 2
+Cal value for line 501 is: 72
+Total is:  28401
+initial digits for line  502 : 6 4
+Found new last for line 502 : 5
+final digits for line  502 : 6 5
+Cal value for line 502 is: 65
+Total is:  28466
+initial digits for line  503 : 3 2
+linenum with duplicate number:  3hfllvslrdgfiveckxgkzstqseven2seven
+final digits for line  503 : 3 2
+Cal value for line 503 is: 32
+Total is:  28498
+initial digits for line  504 : 3 3
+Found new first for line 504 : 4
+Found new last for line 504 : 5
+Found new last for line 504 : 1
+final digits for line  504 : 4 1
+Cal value for line 504 is: 41
+Total is:  28539
+initial digits for line  505 : 9 6
+Found new first for line 505 : 2
+final digits for line  505 : 2 6
+Cal value for line 505 is: 26
+Total is:  28565
+initial digits for line  506 : 9 9
+Found new first for line 506 : 6
+Found new last for line 506 : 2
+final digits for line  506 : 6 2
+Cal value for line 506 is: 62
+Total is:  28627
+initial digits for line  507 : 8 4
+Found new first for line 507 : 2
+Found new last for line 507 : 7
+final digits for line  507 : 2 7
+Cal value for line 507 is: 27
+Total is:  28654
+initial digits for line  508 : 9 6
+Found new last for line 508 : 9
+linenum with duplicate number:  t9fdsgpmsghlp6ninesixsix
+Found new last for line 508 : 6
+final digits for line  508 : 9 6
+Cal value for line 508 is: 96
+Total is:  28750
+initial digits for line  509 : 9 9
+Found new last for line 509 : 1
+final digits for line  509 : 9 1
+Cal value for line 509 is: 91
+Total is:  28841
+initial digits for line  510 : 5 1
+final digits for line  510 : 5 1
+Cal value for line 510 is: 51
+Total is:  28892
+initial digits for line  511 : 5 3
+Found new first for line 511 : 7
+Found new last for line 511 : 4
+final digits for line  511 : 7 4
+Cal value for line 511 is: 74
+Total is:  28966
+initial digits for line  512 : 4 6
+Found new first for line 512 : 2
+linenum with duplicate number:  kjtwone486onefqdklnpdgone
+final digits for line  512 : 2 6
+Cal value for line 512 is: 26
+Total is:  28992
+initial digits for line  513 : 5 5
+Found new last for line 513 : 3
+final digits for line  513 : 5 3
+Cal value for line 513 is: 53
+Total is:  29045
+initial digits for line  514 : 5 5
+Found new first for line 514 : 2
+Found new last for line 514 : 3
+Found new last for line 514 : 4
+final digits for line  514 : 2 4
+Cal value for line 514 is: 24
+Total is:  29069
+initial digits for line  515 : 5 5
+linenum with duplicate number:  nine5sixhjconesix
+Found new last for line 515 : 6
+Found new first for line 515 : 9
+Found new last for line 515 : 1
+final digits for line  515 : 9 1
+Cal value for line 515 is: 91
+Total is:  29160
+initial digits for line  516 : 4 4
+final digits for line  516 : 4 4
+Cal value for line 516 is: 44
+Total is:  29204
+initial digits for line  517 : 8 3
+Found new first for line 517 : 6
+final digits for line  517 : 6 3
+Cal value for line 517 is: 63
+Total is:  29267
+initial digits for line  518 : 5 8
+Found new last for line 518 : 2
+linenum with duplicate number:  5eightfourpzv8bjbbeightwopp
+final digits for line  518 : 5 2
+Cal value for line 518 is: 52
+Total is:  29319
+initial digits for line  519 : 7 5
+Found new last for line 519 : 8
+final digits for line  519 : 7 8
+Cal value for line 519 is: 78
+Total is:  29397
+initial digits for line  520 : 1 3
+final digits for line  520 : 1 3
+Cal value for line 520 is: 13
+Total is:  29410
+initial digits for line  521 : 6 4
+Found new last for line 521 : 6
+final digits for line  521 : 6 6
+Cal value for line 521 is: 66
+Total is:  29476
+initial digits for line  522 : 5 9
+Found new first for line 522 : 9
+final digits for line  522 : 9 9
+Cal value for line 522 is: 99
+Total is:  29575
+initial digits for line  523 : 3 2
+final digits for line  523 : 3 2
+Cal value for line 523 is: 32
+Total is:  29607
+initial digits for line  524 : 6 1
+linenum with duplicate number:  eightsevennxcvvnqsix63four1eight
+Found new first for line 524 : 8
+Found new last for line 524 : 8
+final digits for line  524 : 8 8
+Cal value for line 524 is: 88
+Total is:  29695
+initial digits for line  525 : 6 6
+Found new first for line 525 : 6
+final digits for line  525 : 6 6
+Cal value for line 525 is: 66
+Total is:  29761
+initial digits for line  526 : 6 6
+linenum with duplicate number:  ninenine6
+Found new first for line 526 : 9
+final digits for line  526 : 9 6
+Cal value for line 526 is: 96
+Total is:  29857
+initial digits for line  527 : 5 5
+Found new last for line 527 : 9
+final digits for line  527 : 5 9
+Cal value for line 527 is: 59
+Total is:  29916
+initial digits for line  528 : 7 7
+Found new first for line 528 : 2
+final digits for line  528 : 2 7
+Cal value for line 528 is: 27
+Total is:  29943
+initial digits for line  529 : 7 1
+Found new first for line 529 : 4
+Found new first for line 529 : 6
+final digits for line  529 : 6 1
+Cal value for line 529 is: 61
+Total is:  30004
+initial digits for line  530 : 5 3
+Found new first for line 530 : 9
+Found new last for line 530 : 1
+final digits for line  530 : 9 1
+Cal value for line 530 is: 91
+Total is:  30095
+initial digits for line  531 : 9 1
+linenum with duplicate number:  lxdpz971nfdsevensevenkjrzf
+Found new last for line 531 : 7
+final digits for line  531 : 9 7
+Cal value for line 531 is: 97
+Total is:  30192
+initial digits for line  532 : 2 5
+final digits for line  532 : 2 5
+Cal value for line 532 is: 25
+Total is:  30217
+initial digits for line  533 : 7 2
+Found new last for line 533 : 1
+linenum with duplicate number:  pqftnsixjrxqf7six2threeone
+Found new first for line 533 : 6
+final digits for line  533 : 6 1
+Cal value for line 533 is: 61
+Total is:  30278
+initial digits for line  534 : 8 5
+Found new last for line 534 : 8
+Found new first for line 534 : 6
+final digits for line  534 : 6 8
+Cal value for line 534 is: 68
+Total is:  30346
+initial digits for line  535 : 2 5
+Found new first for line 535 : 7
+final digits for line  535 : 7 5
+Cal value for line 535 is: 75
+Total is:  30421
+initial digits for line  536 : 5 5
+linenum with duplicate number:  5sevenonednlhseven
+Found new last for line 536 : 7
+Found new last for line 536 : 1
+final digits for line  536 : 5 1
+Cal value for line 536 is: 51
+Total is:  30472
+initial digits for line  537 : 5 8
+Found new last for line 537 : 1
+Found new last for line 537 : 3
+final digits for line  537 : 5 3
+Cal value for line 537 is: 53
+Total is:  30525
+initial digits for line  538 : 4 2
+final digits for line  538 : 4 2
+Cal value for line 538 is: 42
+Total is:  30567
+initial digits for line  539 : 9 4
+Found new last for line 539 : 7
+final digits for line  539 : 9 7
+Cal value for line 539 is: 97
+Total is:  30664
+initial digits for line  540 : 7 3
+Found new first for line 540 : 1
+linenum with duplicate number:  one78lpplzpbxcxseventwotwo3eight
+Found new last for line 540 : 8
+final digits for line  540 : 1 8
+Cal value for line 540 is: 18
+Total is:  30682
+initial digits for line  541 : 8 3
+Found new last for line 541 : 8
+Found new last for line 541 : 2
+final digits for line  541 : 8 2
+Cal value for line 541 is: 82
+Total is:  30764
+initial digits for line  542 : 2 2
+final digits for line  542 : 2 2
+Cal value for line 542 is: 22
+Total is:  30786
+initial digits for line  543 : 5 5
+linenum with duplicate number:  5sixsixnineonesixddpvf
+Found new last for line 543 : 6
+Found new last for line 543 : 9
+Found new last for line 543 : 1
+final digits for line  543 : 5 1
+Cal value for line 543 is: 51
+Total is:  30837
+initial digits for line  544 : 8 8
+final digits for line  544 : 8 8
+Cal value for line 544 is: 88
+Total is:  30925
+initial digits for line  545 : 7 2
+final digits for line  545 : 7 2
+Cal value for line 545 is: 72
+Total is:  30997
+initial digits for line  546 : 4 4
+final digits for line  546 : 4 4
+Cal value for line 546 is: 44
+Total is:  31041
+initial digits for line  547 : 7 8
+final digits for line  547 : 7 8
+Cal value for line 547 is: 78
+Total is:  31119
+initial digits for line  548 : 7 7
+final digits for line  548 : 7 7
+Cal value for line 548 is: 77
+Total is:  31196
+initial digits for line  549 : 7 6
+final digits for line  549 : 7 6
+Cal value for line 549 is: 76
+Total is:  31272
+initial digits for line  550 : 4 3
+Found new first for line 550 : 5
+final digits for line  550 : 5 3
+Cal value for line 550 is: 53
+Total is:  31325
+initial digits for line  551 : 3 4
+Found new last for line 551 : 5
+final digits for line  551 : 3 5
+Cal value for line 551 is: 35
+Total is:  31360
+initial digits for line  552 : 5 6
+Found new first for line 552 : 7
+final digits for line  552 : 7 6
+Cal value for line 552 is: 76
+Total is:  31436
+initial digits for line  553 : 1 6
+Found new last for line 553 : 6
+Found new first for line 553 : 9
+final digits for line  553 : 9 6
+Cal value for line 553 is: 96
+Total is:  31532
+initial digits for line  554 : 6 1
+Found new last for line 554 : 2
+final digits for line  554 : 6 2
+Cal value for line 554 is: 62
+Total is:  31594
+initial digits for line  555 : 8 8
+Found new first for line 555 : 8
+final digits for line  555 : 8 8
+Cal value for line 555 is: 88
+Total is:  31682
+initial digits for line  556 : 5 1
+linenum with duplicate number:  5dcfive1ninenine
+Found new last for line 556 : 9
+final digits for line  556 : 5 9
+Cal value for line 556 is: 59
+Total is:  31741
+initial digits for line  557 : 8 8
+Found new first for line 557 : 2
+final digits for line  557 : 2 8
+Cal value for line 557 is: 28
+Total is:  31769
+initial digits for line  558 : 3 6
+Found new first for line 558 : 1
+final digits for line  558 : 1 6
+Cal value for line 558 is: 16
+Total is:  31785
+initial digits for line  559 : 1 1
+linenum with duplicate number:  seven1mhkseven1zdlvnnxxk
+Found new first for line 559 : 7
+final digits for line  559 : 7 1
+Cal value for line 559 is: 71
+Total is:  31856
+initial digits for line  560 : 7 7
+Found new first for line 560 : 1
+Found new first for line 560 : 7
+final digits for line  560 : 7 7
+Cal value for line 560 is: 77
+Total is:  31933
+initial digits for line  561 : 4 3
+Found new last for line 561 : 3
+final digits for line  561 : 4 3
+Cal value for line 561 is: 43
+Total is:  31976
+initial digits for line  562 : 3 3
+Found new first for line 562 : 3
+final digits for line  562 : 3 3
+Cal value for line 562 is: 33
+Total is:  32009
+initial digits for line  563 : 2 6
+final digits for line  563 : 2 6
+Cal value for line 563 is: 26
+Total is:  32035
+initial digits for line  564 : 4 1
+Found new first for line 564 : 6
+Found new first for line 564 : 1
+final digits for line  564 : 1 1
+Cal value for line 564 is: 11
+Total is:  32046
+initial digits for line  565 : 4 4
+Found new last for line 565 : 9
+final digits for line  565 : 4 9
+Cal value for line 565 is: 49
+Total is:  32095
+initial digits for line  566 : 5 6
+final digits for line  566 : 5 6
+Cal value for line 566 is: 56
+Total is:  32151
+initial digits for line  567 : 8 8
+Found new first for line 567 : 6
+Found new first for line 567 : 2
+Found new last for line 567 : 3
+final digits for line  567 : 2 3
+Cal value for line 567 is: 23
+Total is:  32174
+initial digits for line  568 : 7 8
+linenum with duplicate number:  nine7twonine58
+Found new first for line 568 : 9
+final digits for line  568 : 9 8
+Cal value for line 568 is: 98
+Total is:  32272
+initial digits for line  569 : 4 4
+Found new last for line 569 : 9
+Found new last for line 569 : 3
+final digits for line  569 : 4 3
+Cal value for line 569 is: 43
+Total is:  32315
+initial digits for line  570 : 4 8
+Found new first for line 570 : 1
+final digits for line  570 : 1 8
+Cal value for line 570 is: 18
+Total is:  32333
+initial digits for line  571 : 6 9
+final digits for line  571 : 6 9
+Cal value for line 571 is: 69
+Total is:  32402
+initial digits for line  572 : 5 9
+Found new first for line 572 : 5
+final digits for line  572 : 5 9
+Cal value for line 572 is: 59
+Total is:  32461
+initial digits for line  573 : 9 1
+final digits for line  573 : 9 1
+Cal value for line 573 is: 91
+Total is:  32552
+initial digits for line  574 : 3 1
+Found new first for line 574 : 2
+final digits for line  574 : 2 1
+Cal value for line 574 is: 21
+Total is:  32573
+initial digits for line  575 : 5 5
+linenum with duplicate number:  5jlpdhzronetwonevvh
+Found new last for line 575 : 1
+Found new last for line 575 : 2
+final digits for line  575 : 5 2
+Cal value for line 575 is: 52
+Total is:  32625
+initial digits for line  576 : 6 6
+final digits for line  576 : 6 6
+Cal value for line 576 is: 66
+Total is:  32691
+initial digits for line  577 : 2 2
+Found new first for line 577 : 7
+final digits for line  577 : 7 2
+Cal value for line 577 is: 72
+Total is:  32763
+initial digits for line  578 : 7 5
+linenum with duplicate number:  ds75sixthreethree
+Found new last for line 578 : 3
+final digits for line  578 : 7 3
+Cal value for line 578 is: 73
+Total is:  32836
+initial digits for line  579 : 4 9
+Found new first for line 579 : 1
+final digits for line  579 : 1 9
+Cal value for line 579 is: 19
+Total is:  32855
+initial digits for line  580 : 9 9
+final digits for line  580 : 9 9
+Cal value for line 580 is: 99
+Total is:  32954
+initial digits for line  581 : 8 4
+Found new first for line 581 : 5
+final digits for line  581 : 5 4
+Cal value for line 581 is: 54
+Total is:  33008
+initial digits for line  582 : 9 3
+Found new last for line 582 : 3
+Found new last for line 582 : 6
+final digits for line  582 : 9 6
+Cal value for line 582 is: 96
+Total is:  33104
+initial digits for line  583 : 5 8
+Found new first for line 583 : 9
+final digits for line  583 : 9 8
+Cal value for line 583 is: 98
+Total is:  33202
+initial digits for line  584 : 7 4
+final digits for line  584 : 7 4
+Cal value for line 584 is: 74
+Total is:  33276
+initial digits for line  585 : 2 1
+final digits for line  585 : 2 1
+Cal value for line 585 is: 21
+Total is:  33297
+initial digits for line  586 : 7 7
+Found new last for line 586 : 7
+linenum with duplicate number:  sixgpqmtkfdhz7sevenkcnonetwonemcp
+Found new last for line 586 : 1
+Found new last for line 586 : 2
+Found new first for line 586 : 6
+final digits for line  586 : 6 2
+Cal value for line 586 is: 62
+Total is:  33359
+initial digits for line  587 : 3 7
+Found new last for line 587 : 2
+final digits for line  587 : 3 2
+Cal value for line 587 is: 32
+Total is:  33391
+initial digits for line  588 : 4 2
+Found new first for line 588 : 4
+final digits for line  588 : 4 2
+Cal value for line 588 is: 42
+Total is:  33433
+initial digits for line  589 : 4 4
+Found new first for line 589 : 3
+Found new first for line 589 : 7
+final digits for line  589 : 7 4
+Cal value for line 589 is: 74
+Total is:  33507
+initial digits for line  590 : 4 4
+Found new first for line 590 : 1
+final digits for line  590 : 1 4
+Cal value for line 590 is: 14
+Total is:  33521
+initial digits for line  591 : 7 7
+Found new first for line 591 : 3
+linenum with duplicate number:  krcthreeseventwofour7oneone
+Found new last for line 591 : 1
+final digits for line  591 : 3 1
+Cal value for line 591 is: 31
+Total is:  33552
+initial digits for line  592 : 2 6
+final digits for line  592 : 2 6
+Cal value for line 592 is: 26
+Total is:  33578
+initial digits for line  593 : 3 7
+Found new first for line 593 : 1
+Found new first for line 593 : 2
+final digits for line  593 : 2 7
+Cal value for line 593 is: 27
+Total is:  33605
+initial digits for line  594 : 5 5
+Found new last for line 594 : 3
+linenum with duplicate number:  5sixthreesix
+final digits for line  594 : 5 3
+Cal value for line 594 is: 53
+Total is:  33658
+initial digits for line  595 : 6 7
+Found new last for line 595 : 1
+final digits for line  595 : 6 1
+Cal value for line 595 is: 61
+Total is:  33719
+initial digits for line  596 : 5 6
+Found new first for line 596 : 3
+final digits for line  596 : 3 6
+Cal value for line 596 is: 36
+Total is:  33755
+initial digits for line  597 : 9 8
+final digits for line  597 : 9 8
+Cal value for line 597 is: 98
+Total is:  33853
+initial digits for line  598 : 7 7
+Found new first for line 598 : 3
+final digits for line  598 : 3 7
+Cal value for line 598 is: 37
+Total is:  33890
+initial digits for line  599 : 3 3
+Found new last for line 599 : 7
+Found new first for line 599 : 9
+final digits for line  599 : 9 7
+Cal value for line 599 is: 97
+Total is:  33987
+initial digits for line  600 : 8 6
+Found new last for line 600 : 7
+Found new first for line 600 : 1
+Found new first for line 600 : 2
+final digits for line  600 : 2 7
+Cal value for line 600 is: 27
+Total is:  34014
+initial digits for line  601 : 2 2
+final digits for line  601 : 2 2
+Cal value for line 601 is: 22
+Total is:  34036
+initial digits for line  602 : 6 6
+linenum with duplicate number:  fourfourmmlqjczfour6foureight
+Found new first for line 602 : 4
+Found new last for line 602 : 4
+Found new last for line 602 : 8
+final digits for line  602 : 4 8
+Cal value for line 602 is: 48
+Total is:  34084
+initial digits for line  603 : 3 3
+Found new last for line 603 : 7
+final digits for line  603 : 3 7
+Cal value for line 603 is: 37
+Total is:  34121
+initial digits for line  604 : 3 6
+linenum with duplicate number:  3vcbjsmpbgfttczrseven6bsngjeightseventwo
+Found new last for line 604 : 2
+final digits for line  604 : 3 2
+Cal value for line 604 is: 32
+Total is:  34153
+initial digits for line  605 : 1 5
+linenum with duplicate number:  1dbhsix5sixtbxccqqvsvjttm
+final digits for line  605 : 1 5
+Cal value for line 605 is: 15
+Total is:  34168
+initial digits for line  606 : 7 7
+Found new first for line 606 : 1
+linenum with duplicate number:  csbsthreethreeone7
+Found new first for line 606 : 3
+final digits for line  606 : 3 7
+Cal value for line 606 is: 37
+Total is:  34205
+initial digits for line  607 : 8 8
+final digits for line  607 : 8 8
+Cal value for line 607 is: 88
+Total is:  34293
+initial digits for line  608 : 5 1
+Found new first for line 608 : 5
+final digits for line  608 : 5 1
+Cal value for line 608 is: 51
+Total is:  34344
+initial digits for line  609 : 5 9
+Found new first for line 609 : 2
+linenum with duplicate number:  eighttwo5three369eight9
+Found new first for line 609 : 8
+final digits for line  609 : 8 9
+Cal value for line 609 is: 89
+Total is:  34433
+initial digits for line  610 : 5 8
+final digits for line  610 : 5 8
+Cal value for line 610 is: 58
+Total is:  34491
+initial digits for line  611 : 5 4
+final digits for line  611 : 5 4
+Cal value for line 611 is: 54
+Total is:  34545
+initial digits for line  612 : 6 6
+Found new last for line 612 : 5
+Found new first for line 612 : 7
+final digits for line  612 : 7 5
+Cal value for line 612 is: 75
+Total is:  34620
+initial digits for line  613 : 6 5
+Found new first for line 613 : 7
+final digits for line  613 : 7 5
+Cal value for line 613 is: 75
+Total is:  34695
+initial digits for line  614 : 8 3
+Found new first for line 614 : 2
+Found new last for line 614 : 8
+final digits for line  614 : 2 8
+Cal value for line 614 is: 28
+Total is:  34723
+initial digits for line  615 : 8 7
+Found new last for line 615 : 4
+final digits for line  615 : 8 4
+Cal value for line 615 is: 84
+Total is:  34807
+initial digits for line  616 : 8 5
+final digits for line  616 : 8 5
+Cal value for line 616 is: 85
+Total is:  34892
+initial digits for line  617 : 8 5
+Found new first for line 617 : 7
+Found new first for line 617 : 3
+final digits for line  617 : 3 5
+Cal value for line 617 is: 35
+Total is:  34927
+initial digits for line  618 : 2 9
+final digits for line  618 : 2 9
+Cal value for line 618 is: 29
+Total is:  34956
+initial digits for line  619 : 7 8
+Found new last for line 619 : 3
+Found new last for line 619 : 5
+Found new first for line 619 : 7
+Found new last for line 619 : 2
+final digits for line  619 : 7 2
+Cal value for line 619 is: 72
+Total is:  35028
+initial digits for line  620 : 2 7
+final digits for line  620 : 2 7
+Cal value for line 620 is: 27
+Total is:  35055
+initial digits for line  621 : 1 1
+final digits for line  621 : 1 1
+Cal value for line 621 is: 11
+Total is:  35066
+initial digits for line  622 : 2 2
+Found new first for line 622 : 1
+Found new first for line 622 : 2
+Found new last for line 622 : 5
+final digits for line  622 : 2 5
+Cal value for line 622 is: 25
+Total is:  35091
+initial digits for line  623 : 5 4
+final digits for line  623 : 5 4
+Cal value for line 623 is: 54
+Total is:  35145
+initial digits for line  624 : 6 8
+final digits for line  624 : 6 8
+Cal value for line 624 is: 68
+Total is:  35213
+initial digits for line  625 : 3 3
+Found new last for line 625 : 8
+Found new first for line 625 : 2
+final digits for line  625 : 2 8
+Cal value for line 625 is: 28
+Total is:  35241
+initial digits for line  626 : 1 3
+Found new first for line 626 : 2
+final digits for line  626 : 2 3
+Cal value for line 626 is: 23
+Total is:  35264
+initial digits for line  627 : 9 4
+Found new last for line 627 : 4
+linenum with duplicate number:  9one4dzpqnineonexnzsvpplqgmtclfqfour
+final digits for line  627 : 9 4
+Cal value for line 627 is: 94
+Total is:  35358
+initial digits for line  628 : 1 1
+Found new last for line 628 : 2
+Found new last for line 628 : 8
+final digits for line  628 : 1 8
+Cal value for line 628 is: 18
+Total is:  35376
+initial digits for line  629 : 6 8
+linenum with duplicate number:  6fkpgsdchnrkgthreetwotwo8
+final digits for line  629 : 6 8
+Cal value for line 629 is: 68
+Total is:  35444
+initial digits for line  630 : 4 1
+linenum with duplicate number:  hvnczltjleight4eight1mjsix
+Found new first for line 630 : 8
+Found new last for line 630 : 6
+final digits for line  630 : 8 6
+Cal value for line 630 is: 86
+Total is:  35530
+initial digits for line  631 : 7 7
+Found new first for line 631 : 2
+final digits for line  631 : 2 7
+Cal value for line 631 is: 27
+Total is:  35557
+initial digits for line  632 : 9 2
+final digits for line  632 : 9 2
+Cal value for line 632 is: 92
+Total is:  35649
+initial digits for line  633 : 1 1
+final digits for line  633 : 1 1
+Cal value for line 633 is: 11
+Total is:  35660
+initial digits for line  634 : 4 4
+final digits for line  634 : 4 4
+Cal value for line 634 is: 44
+Total is:  35704
+initial digits for line  635 : 8 2
+Found new last for line 635 : 7
+final digits for line  635 : 8 7
+Cal value for line 635 is: 87
+Total is:  35791
+initial digits for line  636 : 6 9
+linenum with duplicate number:  6sixsix1dgszxseven9
+final digits for line  636 : 6 9
+Cal value for line 636 is: 69
+Total is:  35860
+initial digits for line  637 : 1 2
+final digits for line  637 : 1 2
+Cal value for line 637 is: 12
+Total is:  35872
+initial digits for line  638 : 3 8
+Found new last for line 638 : 5
+Found new last for line 638 : 7
+Found new first for line 638 : 3
+final digits for line  638 : 3 7
+Cal value for line 638 is: 37
+Total is:  35909
+initial digits for line  639 : 6 6
+final digits for line  639 : 6 6
+Cal value for line 639 is: 66
+Total is:  35975
+initial digits for line  640 : 4 4
+Found new last for line 640 : 5
+final digits for line  640 : 4 5
+Cal value for line 640 is: 45
+Total is:  36020
+initial digits for line  641 : 6 6
+final digits for line  641 : 6 6
+Cal value for line 641 is: 66
+Total is:  36086
+initial digits for line  642 : 6 3
+Found new last for line 642 : 1
+linenum with duplicate number:  three6three3onesfjvkrjt
+Found new first for line 642 : 3
+final digits for line  642 : 3 1
+Cal value for line 642 is: 31
+Total is:  36117
+initial digits for line  643 : 7 4
+linenum with duplicate number:  fourfour74
+Found new first for line 643 : 4
+final digits for line  643 : 4 4
+Cal value for line 643 is: 44
+Total is:  36161
+initial digits for line  644 : 6 4
+Found new first for line 644 : 8
+Found new last for line 644 : 6
+final digits for line  644 : 8 6
+Cal value for line 644 is: 86
+Total is:  36247
+initial digits for line  645 : 7 9
+Found new last for line 645 : 4
+final digits for line  645 : 7 4
+Cal value for line 645 is: 74
+Total is:  36321
+initial digits for line  646 : 9 9
+Found new last for line 646 : 8
+Found new first for line 646 : 9
+final digits for line  646 : 9 8
+Cal value for line 646 is: 98
+Total is:  36419
+initial digits for line  647 : 5 2
+Found new last for line 647 : 2
+final digits for line  647 : 5 2
+Cal value for line 647 is: 52
+Total is:  36471
+initial digits for line  648 : 8 5
+final digits for line  648 : 8 5
+Cal value for line 648 is: 85
+Total is:  36556
+initial digits for line  649 : 5 8
+Found new first for line 649 : 8
+Found new last for line 649 : 2
+final digits for line  649 : 8 2
+Cal value for line 649 is: 82
+Total is:  36638
+initial digits for line  650 : 2 2
+Found new last for line 650 : 9
+final digits for line  650 : 2 9
+Cal value for line 650 is: 29
+Total is:  36667
+initial digits for line  651 : 8 8
+final digits for line  651 : 8 8
+Cal value for line 651 is: 88
+Total is:  36755
+initial digits for line  652 : 6 5
+Found new last for line 652 : 9
+final digits for line  652 : 6 9
+Cal value for line 652 is: 69
+Total is:  36824
+initial digits for line  653 : 4 4
+Found new first for line 653 : 9
+Found new first for line 653 : 1
+final digits for line  653 : 1 4
+Cal value for line 653 is: 14
+Total is:  36838
+initial digits for line  654 : 8 7
+linenum with duplicate number:  one8sevenseven47
+Found new first for line 654 : 1
+final digits for line  654 : 1 7
+Cal value for line 654 is: 17
+Total is:  36855
+initial digits for line  655 : 2 5
+Found new first for line 655 : 3
+final digits for line  655 : 3 5
+Cal value for line 655 is: 35
+Total is:  36890
+initial digits for line  656 : 2 1
+linenum with duplicate number:  one251onextjqxztm
+Found new first for line 656 : 1
+Found new last for line 656 : 1
+final digits for line  656 : 1 1
+Cal value for line 656 is: 11
+Total is:  36901
+initial digits for line  657 : 1 1
+Found new last for line 657 : 8
+final digits for line  657 : 1 8
+Cal value for line 657 is: 18
+Total is:  36919
+initial digits for line  658 : 4 1
+Found new last for line 658 : 6
+Found new first for line 658 : 8
+final digits for line  658 : 8 6
+Cal value for line 658 is: 86
+Total is:  37005
+initial digits for line  659 : 7 7
+Found new first for line 659 : 5
+final digits for line  659 : 5 7
+Cal value for line 659 is: 57
+Total is:  37062
+initial digits for line  660 : 6 9
+final digits for line  660 : 6 9
+Cal value for line 660 is: 69
+Total is:  37131
+initial digits for line  661 : 3 3
+final digits for line  661 : 3 3
+Cal value for line 661 is: 33
+Total is:  37164
+initial digits for line  662 : 2 8
+Found new first for line 662 : 6
+Found new first for line 662 : 9
+final digits for line  662 : 9 8
+Cal value for line 662 is: 98
+Total is:  37262
+initial digits for line  663 : 1 1
+final digits for line  663 : 1 1
+Cal value for line 663 is: 11
+Total is:  37273
+initial digits for line  664 : 5 5
+Found new last for line 664 : 3
+final digits for line  664 : 5 3
+Cal value for line 664 is: 53
+Total is:  37326
+initial digits for line  665 : 4 5
+final digits for line  665 : 4 5
+Cal value for line 665 is: 45
+Total is:  37371
+initial digits for line  666 : 1 5
+Found new first for line 666 : 8
+final digits for line  666 : 8 5
+Cal value for line 666 is: 85
+Total is:  37456
+initial digits for line  667 : 6 9
+Found new first for line 667 : 1
+final digits for line  667 : 1 9
+Cal value for line 667 is: 19
+Total is:  37475
+initial digits for line  668 : 3 3
+linenum with duplicate number:  gfqtnbbzrkfivelmmnmztdgeighthzfbzmpfnztwoxzzpjcsvfive3
+Found new first for line 668 : 5
+final digits for line  668 : 5 3
+Cal value for line 668 is: 53
+Total is:  37528
+initial digits for line  669 : 1 1
+Found new first for line 669 : 8
+Found new first for line 669 : 3
+final digits for line  669 : 3 1
+Cal value for line 669 is: 31
+Total is:  37559
+initial digits for line  670 : 1 4
+Found new first for line 670 : 9
+final digits for line  670 : 9 4
+Cal value for line 670 is: 94
+Total is:  37653
+initial digits for line  671 : 9 8
+final digits for line  671 : 9 8
+Cal value for line 671 is: 98
+Total is:  37751
+initial digits for line  672 : 8 8
+Found new last for line 672 : 2
+final digits for line  672 : 8 2
+Cal value for line 672 is: 82
+Total is:  37833
+initial digits for line  673 : 6 6
+final digits for line  673 : 6 6
+Cal value for line 673 is: 66
+Total is:  37899
+initial digits for line  674 : 1 1
+Found new first for line 674 : 9
+final digits for line  674 : 9 1
+Cal value for line 674 is: 91
+Total is:  37990
+initial digits for line  675 : 5 5
+Found new last for line 675 : 3
+Found new last for line 675 : 1
+final digits for line  675 : 5 1
+Cal value for line 675 is: 51
+Total is:  38041
+initial digits for line  676 : 1 5
+Found new last for line 676 : 9
+final digits for line  676 : 1 9
+Cal value for line 676 is: 19
+Total is:  38060
+initial digits for line  677 : 3 3
+Found new last for line 677 : 8
+Found new first for line 677 : 2
+final digits for line  677 : 2 8
+Cal value for line 677 is: 28
+Total is:  38088
+initial digits for line  678 : 4 4
+Found new last for line 678 : 9
+final digits for line  678 : 4 9
+Cal value for line 678 is: 49
+Total is:  38137
+initial digits for line  679 : 8 6
+Found new first for line 679 : 5
+linenum with duplicate number:  ninefivenineplttv8seventwoggsmztd6
+Found new first for line 679 : 9
+final digits for line  679 : 9 6
+Cal value for line 679 is: 96
+Total is:  38233
+initial digits for line  680 : 3 7
+Found new first for line 680 : 1
+final digits for line  680 : 1 7
+Cal value for line 680 is: 17
+Total is:  38250
+initial digits for line  681 : 2 1
+final digits for line  681 : 2 1
+Cal value for line 681 is: 21
+Total is:  38271
+initial digits for line  682 : 4 4
+Found new first for line 682 : 9
+linenum with duplicate number:  sevenninetwohsztwomvzdrdtsz4seventwo
+linenum with duplicate number:  sevenninetwohsztwomvzdrdtsz4seventwo
+Found new first for line 682 : 7
+Found new last for line 682 : 7
+final digits for line  682 : 7 7
+Cal value for line 682 is: 77
+Total is:  38348
+initial digits for line  683 : 2 6
+Found new last for line 683 : 6
+final digits for line  683 : 2 6
+Cal value for line 683 is: 26
+Total is:  38374
+initial digits for line  684 : 8 5
+final digits for line  684 : 8 5
+Cal value for line 684 is: 85
+Total is:  38459
+initial digits for line  685 : 8 8
+Found new last for line 685 : 4
+final digits for line  685 : 8 4
+Cal value for line 685 is: 84
+Total is:  38543
+initial digits for line  686 : 2 7
+Found new last for line 686 : 8
+Found new first for line 686 : 3
+final digits for line  686 : 3 8
+Cal value for line 686 is: 38
+Total is:  38581
+initial digits for line  687 : 3 9
+Found new last for line 687 : 8
+final digits for line  687 : 3 8
+Cal value for line 687 is: 38
+Total is:  38619
+initial digits for line  688 : 8 7
+linenum with duplicate number:  one89twoone7
+Found new first for line 688 : 1
+final digits for line  688 : 1 7
+Cal value for line 688 is: 17
+Total is:  38636
+initial digits for line  689 : 7 7
+Found new last for line 689 : 2
+final digits for line  689 : 7 2
+Cal value for line 689 is: 72
+Total is:  38708
+initial digits for line  690 : 7 8
+linenum with duplicate number:  7fzkbxrvseven6fbvgmckvjrlklqhlnsevenone8
+final digits for line  690 : 7 8
+Cal value for line 690 is: 78
+Total is:  38786
+initial digits for line  691 : 4 4
+final digits for line  691 : 4 4
+Cal value for line 691 is: 44
+Total is:  38830
+initial digits for line  692 : 7 7
+Found new first for line 692 : 6
+final digits for line  692 : 6 7
+Cal value for line 692 is: 67
+Total is:  38897
+initial digits for line  693 : 1 1
+Found new first for line 693 : 7
+final digits for line  693 : 7 1
+Cal value for line 693 is: 71
+Total is:  38968
+initial digits for line  694 : 6 7
+Found new first for line 694 : 6
+final digits for line  694 : 6 7
+Cal value for line 694 is: 67
+Total is:  39035
+initial digits for line  695 : 4 1
+linenum with duplicate number:  three4dckqnone2two1eightwoq
+Found new first for line 695 : 3
+Found new last for line 695 : 8
+final digits for line  695 : 3 8
+Cal value for line 695 is: 38
+Total is:  39073
+initial digits for line  696 : 9 7
+Found new first for line 696 : 2
+final digits for line  696 : 2 7
+Cal value for line 696 is: 27
+Total is:  39100
+initial digits for line  697 : 1 5
+Found new first for line 697 : 6
+final digits for line  697 : 6 5
+Cal value for line 697 is: 65
+Total is:  39165
+initial digits for line  698 : 6 6
+Found new first for line 698 : 7
+final digits for line  698 : 7 6
+Cal value for line 698 is: 76
+Total is:  39241
+initial digits for line  699 : 5 5
+linenum with duplicate number:  seven55seveneightwodc
+Found new first for line 699 : 7
+Found new last for line 699 : 7
+Found new last for line 699 : 2
+final digits for line  699 : 7 2
+Cal value for line 699 is: 72
+Total is:  39313
+initial digits for line  700 : 9 9
+Found new first for line 700 : 7
+Found new last for line 700 : 8
+final digits for line  700 : 7 8
+Cal value for line 700 is: 78
+Total is:  39391
+initial digits for line  701 : 9 9
+Found new first for line 701 : 3
+final digits for line  701 : 3 9
+Cal value for line 701 is: 39
+Total is:  39430
+initial digits for line  702 : 9 1
+Found new first for line 702 : 6
+Found new last for line 702 : 1
+final digits for line  702 : 6 1
+Cal value for line 702 is: 61
+Total is:  39491
+initial digits for line  703 : 6 6
+Found new last for line 703 : 6
+Found new first for line 703 : 3
+final digits for line  703 : 3 6
+Cal value for line 703 is: 36
+Total is:  39527
+initial digits for line  704 : 4 9
+final digits for line  704 : 4 9
+Cal value for line 704 is: 49
+Total is:  39576
+initial digits for line  705 : 8 7
+Found new last for line 705 : 2
+final digits for line  705 : 8 2
+Cal value for line 705 is: 82
+Total is:  39658
+initial digits for line  706 : 2 6
+Found new last for line 706 : 2
+Found new first for line 706 : 5
+Found new first for line 706 : 6
+final digits for line  706 : 6 2
+Cal value for line 706 is: 62
+Total is:  39720
+initial digits for line  707 : 2 6
+final digits for line  707 : 2 6
+Cal value for line 707 is: 26
+Total is:  39746
+initial digits for line  708 : 2 2
+Found new first for line 708 : 5
+final digits for line  708 : 5 2
+Cal value for line 708 is: 52
+Total is:  39798
+initial digits for line  709 : 6 6
+linenum with duplicate number:  fourfour6eightninedkgxbkninexgncmkfqp
+Found new first for line 709 : 4
+linenum with duplicate number:  fourfour6eightninedkgxbkninexgncmkfqp
+Found new last for line 709 : 9
+final digits for line  709 : 4 9
+Cal value for line 709 is: 49
+Total is:  39847
+initial digits for line  710 : 1 3
+Found new first for line 710 : 9
+final digits for line  710 : 9 3
+Cal value for line 710 is: 93
+Total is:  39940
+initial digits for line  711 : 8 8
+final digits for line  711 : 8 8
+Cal value for line 711 is: 88
+Total is:  40028
+initial digits for line  712 : 8 9
+Found new first for line 712 : 4
+final digits for line  712 : 4 9
+Cal value for line 712 is: 49
+Total is:  40077
+initial digits for line  713 : 9 5
+Found new last for line 713 : 4
+Found new last for line 713 : 7
+final digits for line  713 : 9 7
+Cal value for line 713 is: 97
+Total is:  40174
+initial digits for line  714 : 5 5
+Found new first for line 714 : 7
+final digits for line  714 : 7 5
+Cal value for line 714 is: 75
+Total is:  40249
+initial digits for line  715 : 2 7
+Found new first for line 715 : 5
+Found new last for line 715 : 6
+Found new last for line 715 : 7
+final digits for line  715 : 5 7
+Cal value for line 715 is: 57
+Total is:  40306
+initial digits for line  716 : 1 1
+Found new first for line 716 : 5
+Found new last for line 716 : 7
+final digits for line  716 : 5 7
+Cal value for line 716 is: 57
+Total is:  40363
+initial digits for line  717 : 5 2
+Found new first for line 717 : 9
+final digits for line  717 : 9 2
+Cal value for line 717 is: 92
+Total is:  40455
+initial digits for line  718 : 9 9
+Found new last for line 718 : 6
+final digits for line  718 : 9 6
+Cal value for line 718 is: 96
+Total is:  40551
+initial digits for line  719 : 1 9
+final digits for line  719 : 1 9
+Cal value for line 719 is: 19
+Total is:  40570
+initial digits for line  720 : 3 3
+final digits for line  720 : 3 3
+Cal value for line 720 is: 33
+Total is:  40603
+initial digits for line  721 : 1 1
+Found new first for line 721 : 5
+final digits for line  721 : 5 1
+Cal value for line 721 is: 51
+Total is:  40654
+initial digits for line  722 : 3 3
+Found new first for line 722 : 5
+final digits for line  722 : 5 3
+Cal value for line 722 is: 53
+Total is:  40707
+initial digits for line  723 : 4 2
+Found new first for line 723 : 8
+Found new first for line 723 : 9
+linenum with duplicate number:  dxthreethreeninetwoeight4three2
+Found new first for line 723 : 3
+final digits for line  723 : 3 2
+Cal value for line 723 is: 32
+Total is:  40739
+initial digits for line  724 : 6 6
+final digits for line  724 : 6 6
+Cal value for line 724 is: 66
+Total is:  40805
+initial digits for line  725 : 5 9
+Found new first for line 725 : 9
+final digits for line  725 : 9 9
+Cal value for line 725 is: 99
+Total is:  40904
+initial digits for line  726 : 7 2
+linenum with duplicate number:  7seven8one22knqdsixone
+Found new last for line 726 : 6
+final digits for line  726 : 7 6
+Cal value for line 726 is: 76
+Total is:  40980
+initial digits for line  727 : 5 5
+Found new first for line 727 : 6
+final digits for line  727 : 6 5
+Cal value for line 727 is: 65
+Total is:  41045
+initial digits for line  728 : 4 4
+Found new first for line 728 : 9
+Found new last for line 728 : 1
+final digits for line  728 : 9 1
+Cal value for line 728 is: 91
+Total is:  41136
+initial digits for line  729 : 2 7
+final digits for line  729 : 2 7
+Cal value for line 729 is: 27
+Total is:  41163
+initial digits for line  730 : 5 5
+Found new first for line 730 : 4
+final digits for line  730 : 4 5
+Cal value for line 730 is: 45
+Total is:  41208
+initial digits for line  731 : 2 2
+linenum with duplicate number:  2dgqoneoneone
+Found new last for line 731 : 1
+final digits for line  731 : 2 1
+Cal value for line 731 is: 21
+Total is:  41229
+initial digits for line  732 : 1 1
+final digits for line  732 : 1 1
+Cal value for line 732 is: 11
+Total is:  41240
+initial digits for line  733 : 8 6
+Found new first for line 733 : 7
+Found new first for line 733 : 5
+final digits for line  733 : 5 6
+Cal value for line 733 is: 56
+Total is:  41296
+initial digits for line  734 : 8 8
+Found new first for line 734 : 8
+linenum with duplicate number:  rrxkljtthreefoureight8hpxmmnjctthree
+Found new first for line 734 : 3
+Found new last for line 734 : 3
+final digits for line  734 : 3 3
+Cal value for line 734 is: 33
+Total is:  41329
+initial digits for line  735 : 2 1
+final digits for line  735 : 2 1
+Cal value for line 735 is: 21
+Total is:  41350
+initial digits for line  736 : 1 1
+Found new last for line 736 : 1
+final digits for line  736 : 1 1
+Cal value for line 736 is: 11
+Total is:  41361
+initial digits for line  737 : 2 8
+Found new last for line 737 : 5
+final digits for line  737 : 2 5
+Cal value for line 737 is: 25
+Total is:  41386
+initial digits for line  738 : 1 1
+Found new last for line 738 : 8
+final digits for line  738 : 1 8
+Cal value for line 738 is: 18
+Total is:  41404
+initial digits for line  739 : 5 5
+Found new first for line 739 : 6
+Found new first for line 739 : 1
+Found new first for line 739 : 5
+final digits for line  739 : 5 5
+Cal value for line 739 is: 55
+Total is:  41459
+initial digits for line  740 : 3 7
+final digits for line  740 : 3 7
+Cal value for line 740 is: 37
+Total is:  41496
+initial digits for line  741 : 1 8
+final digits for line  741 : 1 8
+Cal value for line 741 is: 18
+Total is:  41514
+initial digits for line  742 : 2 3
+Found new last for line 742 : 3
+final digits for line  742 : 2 3
+Cal value for line 742 is: 23
+Total is:  41537
+initial digits for line  743 : 1 4
+final digits for line  743 : 1 4
+Cal value for line 743 is: 14
+Total is:  41551
+initial digits for line  744 : 8 1
+Found new last for line 744 : 4
+final digits for line  744 : 8 4
+Cal value for line 744 is: 84
+Total is:  41635
+initial digits for line  745 : 5 3
+final digits for line  745 : 5 3
+Cal value for line 745 is: 53
+Total is:  41688
+initial digits for line  746 : 7 6
+Found new first for line 746 : 8
+final digits for line  746 : 8 6
+Cal value for line 746 is: 86
+Total is:  41774
+initial digits for line  747 : 7 7
+final digits for line  747 : 7 7
+Cal value for line 747 is: 77
+Total is:  41851
+initial digits for line  748 : 5 5
+final digits for line  748 : 5 5
+Cal value for line 748 is: 55
+Total is:  41906
+initial digits for line  749 : 1 1
+Found new last for line 749 : 9
+final digits for line  749 : 1 9
+Cal value for line 749 is: 19
+Total is:  41925
+initial digits for line  750 : 2 2
+Found new last for line 750 : 8
+Found new first for line 750 : 2
+Found new first for line 750 : 4
+final digits for line  750 : 4 8
+Cal value for line 750 is: 48
+Total is:  41973
+initial digits for line  751 : 1 6
+Found new first for line 751 : 2
+final digits for line  751 : 2 6
+Cal value for line 751 is: 26
+Total is:  41999
+initial digits for line  752 : 5 1
+Found new first for line 752 : 6
+Found new last for line 752 : 7
+final digits for line  752 : 6 7
+Cal value for line 752 is: 67
+Total is:  42066
+initial digits for line  753 : 7 7
+Found new first for line 753 : 2
+final digits for line  753 : 2 7
+Cal value for line 753 is: 27
+Total is:  42093
+initial digits for line  754 : 4 6
+final digits for line  754 : 4 6
+Cal value for line 754 is: 46
+Total is:  42139
+initial digits for line  755 : 9 9
+linenum with duplicate number:  sevenseven9xnlrnzlrnxfourjzsjfds
+Found new first for line 755 : 7
+Found new last for line 755 : 4
+final digits for line  755 : 7 4
+Cal value for line 755 is: 74
+Total is:  42213
+initial digits for line  756 : 8 8
+Found new last for line 756 : 2
+Found new last for line 756 : 4
+final digits for line  756 : 8 4
+Cal value for line 756 is: 84
+Total is:  42297
+initial digits for line  757 : 4 5
+final digits for line  757 : 4 5
+Cal value for line 757 is: 45
+Total is:  42342
+initial digits for line  758 : 5 5
+final digits for line  758 : 5 5
+Cal value for line 758 is: 55
+Total is:  42397
+initial digits for line  759 : 1 1
+Found new first for line 759 : 8
+linenum with duplicate number:  sixsixeightvvplxddrdnngdxj1
+Found new first for line 759 : 6
+final digits for line  759 : 6 1
+Cal value for line 759 is: 61
+Total is:  42458
+initial digits for line  760 : 9 4
+final digits for line  760 : 9 4
+Cal value for line 760 is: 94
+Total is:  42552
+initial digits for line  761 : 9 5
+Found new first for line 761 : 9
+Found new last for line 761 : 1
+final digits for line  761 : 9 1
+Cal value for line 761 is: 91
+Total is:  42643
+initial digits for line  762 : 3 7
+linenum with duplicate number:  3sixfourxltwopmdsrjscrh7dggvqhfour
+final digits for line  762 : 3 7
+Cal value for line 762 is: 37
+Total is:  42680
+initial digits for line  763 : 5 8
+final digits for line  763 : 5 8
+Cal value for line 763 is: 58
+Total is:  42738
+initial digits for line  764 : 7 2
+Found new last for line 764 : 4
+Found new first for line 764 : 5
+final digits for line  764 : 5 4
+Cal value for line 764 is: 54
+Total is:  42792
+initial digits for line  765 : 8 1
+Found new last for line 765 : 6
+Found new last for line 765 : 2
+final digits for line  765 : 8 2
+Cal value for line 765 is: 82
+Total is:  42874
+initial digits for line  766 : 1 4
+final digits for line  766 : 1 4
+Cal value for line 766 is: 14
+Total is:  42888
+initial digits for line  767 : 7 9
+Found new first for line 767 : 8
+final digits for line  767 : 8 9
+Cal value for line 767 is: 89
+Total is:  42977
+initial digits for line  768 : 3 8
+final digits for line  768 : 3 8
+Cal value for line 768 is: 38
+Total is:  43015
+initial digits for line  769 : 9 9
+final digits for line  769 : 9 9
+Cal value for line 769 is: 99
+Total is:  43114
+initial digits for line  770 : 8 8
+Found new last for line 770 : 5
+Found new last for line 770 : 2
+final digits for line  770 : 8 2
+Cal value for line 770 is: 82
+Total is:  43196
+initial digits for line  771 : 5 3
+final digits for line  771 : 5 3
+Cal value for line 771 is: 53
+Total is:  43249
+initial digits for line  772 : 7 7
+Found new last for line 772 : 8
+final digits for line  772 : 7 8
+Cal value for line 772 is: 78
+Total is:  43327
+initial digits for line  773 : 1 4
+Found new first for line 773 : 6
+final digits for line  773 : 6 4
+Cal value for line 773 is: 64
+Total is:  43391
+initial digits for line  774 : 5 5
+final digits for line  774 : 5 5
+Cal value for line 774 is: 55
+Total is:  43446
+initial digits for line  775 : 7 9
+linenum with duplicate number:  eightnghj7threethreeeight9
+linenum with duplicate number:  eightnghj7threethreeeight9
+Found new first for line 775 : 8
+final digits for line  775 : 8 9
+Cal value for line 775 is: 89
+Total is:  43535
+initial digits for line  776 : 9 6
+final digits for line  776 : 9 6
+Cal value for line 776 is: 96
+Total is:  43631
+initial digits for line  777 : 2 5
+Found new last for line 777 : 6
+Found new last for line 777 : 7
+Found new first for line 777 : 8
+final digits for line  777 : 8 7
+Cal value for line 777 is: 87
+Total is:  43718
+initial digits for line  778 : 4 7
+Found new last for line 778 : 6
+final digits for line  778 : 4 6
+Cal value for line 778 is: 46
+Total is:  43764
+initial digits for line  779 : 9 5
+linenum with duplicate number:  9ninenine195
+final digits for line  779 : 9 5
+Cal value for line 779 is: 95
+Total is:  43859
+initial digits for line  780 : 4 3
+final digits for line  780 : 4 3
+Cal value for line 780 is: 43
+Total is:  43902
+initial digits for line  781 : 2 2
+final digits for line  781 : 2 2
+Cal value for line 781 is: 22
+Total is:  43924
+initial digits for line  782 : 7 7
+Found new first for line 782 : 2
+Found new last for line 782 : 6
+final digits for line  782 : 2 6
+Cal value for line 782 is: 26
+Total is:  43950
+initial digits for line  783 : 7 7
+Found new first for line 783 : 1
+final digits for line  783 : 1 7
+Cal value for line 783 is: 17
+Total is:  43967
+initial digits for line  784 : 5 3
+linenum with duplicate number:  ninextxskkggr5nine3ckkfd
+Found new first for line 784 : 9
+final digits for line  784 : 9 3
+Cal value for line 784 is: 93
+Total is:  44060
+initial digits for line  785 : 6 2
+Found new first for line 785 : 6
+Found new first for line 785 : 8
+final digits for line  785 : 8 2
+Cal value for line 785 is: 82
+Total is:  44142
+initial digits for line  786 : 4 5
+final digits for line  786 : 4 5
+Cal value for line 786 is: 45
+Total is:  44187
+initial digits for line  787 : 7 7
+Found new last for line 787 : 4
+Found new first for line 787 : 8
+final digits for line  787 : 8 4
+Cal value for line 787 is: 84
+Total is:  44271
+initial digits for line  788 : 7 7
+Found new first for line 788 : 6
+final digits for line  788 : 6 7
+Cal value for line 788 is: 67
+Total is:  44338
+initial digits for line  789 : 1 1
+final digits for line  789 : 1 1
+Cal value for line 789 is: 11
+Total is:  44349
+initial digits for line  790 : 5 3
+final digits for line  790 : 5 3
+Cal value for line 790 is: 53
+Total is:  44402
+initial digits for line  791 : 5 1
+final digits for line  791 : 5 1
+Cal value for line 791 is: 51
+Total is:  44453
+initial digits for line  792 : 8 8
+Found new last for line 792 : 9
+Found new first for line 792 : 3
+linenum with duplicate number:  fourtgpmfourthree8ninecfd
+Found new first for line 792 : 4
+final digits for line  792 : 4 9
+Cal value for line 792 is: 49
+Total is:  44502
+initial digits for line  793 : 5 5
+linenum with duplicate number:  hqnpxjtpnsxqpfzvgmshfmntwothreetwovzgphgfsix5
+Found new first for line 793 : 2
+final digits for line  793 : 2 5
+Cal value for line 793 is: 25
+Total is:  44527
+initial digits for line  794 : 7 3
+Found new first for line 794 : 1
+final digits for line  794 : 1 3
+Cal value for line 794 is: 13
+Total is:  44540
+initial digits for line  795 : 3 3
+Found new last for line 795 : 2
+final digits for line  795 : 3 2
+Cal value for line 795 is: 32
+Total is:  44572
+initial digits for line  796 : 8 8
+Found new first for line 796 : 9
+linenum with duplicate number:  cgkninefoursixtwosix8eight
+Found new last for line 796 : 8
+final digits for line  796 : 9 8
+Cal value for line 796 is: 98
+Total is:  44670
+initial digits for line  797 : 4 4
+Found new first for line 797 : 8
+final digits for line  797 : 8 4
+Cal value for line 797 is: 84
+Total is:  44754
+initial digits for line  798 : 8 1
+Found new first for line 798 : 8
+Found new first for line 798 : 1
+linenum with duplicate number:  hzoneightthreefour8threekppfivezl61
+final digits for line  798 : 1 1
+Cal value for line 798 is: 11
+Total is:  44765
+initial digits for line  799 : 3 6
+final digits for line  799 : 3 6
+Cal value for line 799 is: 36
+Total is:  44801
+initial digits for line  800 : 6 6
+Found new first for line 800 : 8
+final digits for line  800 : 8 6
+Cal value for line 800 is: 86
+Total is:  44887
+initial digits for line  801 : 7 1
+Found new last for line 801 : 1
+Found new last for line 801 : 4
+final digits for line  801 : 7 4
+Cal value for line 801 is: 74
+Total is:  44961
+initial digits for line  802 : 1 2
+Found new last for line 802 : 6
+final digits for line  802 : 1 6
+Cal value for line 802 is: 16
+Total is:  44977
+initial digits for line  803 : 5 3
+Found new last for line 803 : 7
+Found new first for line 803 : 1
+final digits for line  803 : 1 7
+Cal value for line 803 is: 17
+Total is:  44994
+initial digits for line  804 : 4 3
+linenum with duplicate number:  sz4kljvrjf3sixxfivefivefive
+Found new last for line 804 : 5
+final digits for line  804 : 4 5
+Cal value for line 804 is: 45
+Total is:  45039
+initial digits for line  805 : 6 9
+final digits for line  805 : 6 9
+Cal value for line 805 is: 69
+Total is:  45108
+initial digits for line  806 : 8 4
+Found new first for line 806 : 8
+Found new last for line 806 : 2
+linenum with duplicate number:  gbdeightsevenninenine84ltblttwo
+final digits for line  806 : 8 2
+Cal value for line 806 is: 82
+Total is:  45190
+initial digits for line  807 : 5 9
+Found new first for line 807 : 4
+final digits for line  807 : 4 9
+Cal value for line 807 is: 49
+Total is:  45239
+initial digits for line  808 : 4 2
+final digits for line  808 : 4 2
+Cal value for line 808 is: 42
+Total is:  45281
+initial digits for line  809 : 9 9
+Found new first for line 809 : 4
+final digits for line  809 : 4 9
+Cal value for line 809 is: 49
+Total is:  45330
+initial digits for line  810 : 2 2
+final digits for line  810 : 2 2
+Cal value for line 810 is: 22
+Total is:  45352
+initial digits for line  811 : 9 5
+Found new last for line 811 : 7
+Found new first for line 811 : 4
+final digits for line  811 : 4 7
+Cal value for line 811 is: 47
+Total is:  45399
+initial digits for line  812 : 2 3
+final digits for line  812 : 2 3
+Cal value for line 812 is: 23
+Total is:  45422
+initial digits for line  813 : 1 4
+Found new first for line 813 : 1
+final digits for line  813 : 1 4
+Cal value for line 813 is: 14
+Total is:  45436
+initial digits for line  814 : 4 4
+Found new last for line 814 : 6
+final digits for line  814 : 4 6
+Cal value for line 814 is: 46
+Total is:  45482
+initial digits for line  815 : 3 4
+final digits for line  815 : 3 4
+Cal value for line 815 is: 34
+Total is:  45516
+initial digits for line  816 : 9 9
+Found new last for line 816 : 6
+Found new first for line 816 : 7
+final digits for line  816 : 7 6
+Cal value for line 816 is: 76
+Total is:  45592
+initial digits for line  817 : 7 8
+Found new first for line 817 : 2
+Found new first for line 817 : 8
+final digits for line  817 : 8 8
+Cal value for line 817 is: 88
+Total is:  45680
+initial digits for line  818 : 7 5
+linenum with duplicate number:  75stwofivefvnjtktztwo
+Found new last for line 818 : 2
+Found new last for line 818 : 5
+final digits for line  818 : 7 5
+Cal value for line 818 is: 75
+Total is:  45755
+initial digits for line  819 : 1 8
+final digits for line  819 : 1 8
+Cal value for line 819 is: 18
+Total is:  45773
+initial digits for line  820 : 8 9
+final digits for line  820 : 8 9
+Cal value for line 820 is: 89
+Total is:  45862
+initial digits for line  821 : 1 1
+Found new last for line 821 : 7
+final digits for line  821 : 1 7
+Cal value for line 821 is: 17
+Total is:  45879
+initial digits for line  822 : 3 8
+final digits for line  822 : 3 8
+Cal value for line 822 is: 38
+Total is:  45917
+initial digits for line  823 : 2 2
+linenum with duplicate number:  2jktmfjbzdkpvzkpcqv9cpprlghqzdfive2five2
+final digits for line  823 : 2 2
+Cal value for line 823 is: 22
+Total is:  45939
+initial digits for line  824 : 8 7
+Found new first for line 824 : 2
+final digits for line  824 : 2 7
+Cal value for line 824 is: 27
+Total is:  45966
+initial digits for line  825 : 5 7
+Found new first for line 825 : 8
+final digits for line  825 : 8 7
+Cal value for line 825 is: 87
+Total is:  46053
+initial digits for line  826 : 8 8
+Found new first for line 826 : 3
+final digits for line  826 : 3 8
+Cal value for line 826 is: 38
+Total is:  46091
+initial digits for line  827 : 4 7
+Found new first for line 827 : 1
+final digits for line  827 : 1 7
+Cal value for line 827 is: 17
+Total is:  46108
+initial digits for line  828 : 8 1
+final digits for line  828 : 8 1
+Cal value for line 828 is: 81
+Total is:  46189
+initial digits for line  829 : 6 5
+final digits for line  829 : 6 5
+Cal value for line 829 is: 65
+Total is:  46254
+initial digits for line  830 : 6 1
+Found new first for line 830 : 3
+final digits for line  830 : 3 1
+Cal value for line 830 is: 31
+Total is:  46285
+initial digits for line  831 : 9 9
+Found new last for line 831 : 4
+final digits for line  831 : 9 4
+Cal value for line 831 is: 94
+Total is:  46379
+initial digits for line  832 : 6 1
+linenum with duplicate number:  6fvnrr4five1fivejxxcmc
+final digits for line  832 : 6 1
+Cal value for line 832 is: 61
+Total is:  46440
+initial digits for line  833 : 5 5
+linenum with duplicate number:  sseven5threesevenfourr
+Found new first for line 833 : 7
+Found new last for line 833 : 7
+Found new last for line 833 : 4
+final digits for line  833 : 7 4
+Cal value for line 833 is: 74
+Total is:  46514
+initial digits for line  834 : 5 5
+Found new last for line 834 : 2
+final digits for line  834 : 5 2
+Cal value for line 834 is: 52
+Total is:  46566
+initial digits for line  835 : 8 8
+final digits for line  835 : 8 8
+Cal value for line 835 is: 88
+Total is:  46654
+initial digits for line  836 : 9 9
+final digits for line  836 : 9 9
+Cal value for line 836 is: 99
+Total is:  46753
+initial digits for line  837 : 4 4
+Found new first for line 837 : 8
+Found new first for line 837 : 3
+Found new first for line 837 : 6
+final digits for line  837 : 6 4
+Cal value for line 837 is: 64
+Total is:  46817
+initial digits for line  838 : 5 5
+Found new last for line 838 : 4
+Found new last for line 838 : 1
+linenum with duplicate number:  two5fouronetwo
+Found new first for line 838 : 2
+Found new last for line 838 : 2
+final digits for line  838 : 2 2
+Cal value for line 838 is: 22
+Total is:  46839
+initial digits for line  839 : 3 3
+Found new last for line 839 : 4
+Found new last for line 839 : 8
+final digits for line  839 : 3 8
+Cal value for line 839 is: 38
+Total is:  46877
+initial digits for line  840 : 9 1
+Found new first for line 840 : 3
+linenum with duplicate number:  sevenxjmkfgtseventhreefdtvn9two1
+Found new first for line 840 : 7
+final digits for line  840 : 7 1
+Cal value for line 840 is: 71
+Total is:  46948
+initial digits for line  841 : 1 8
+Found new last for line 841 : 7
+final digits for line  841 : 1 7
+Cal value for line 841 is: 17
+Total is:  46965
+initial digits for line  842 : 8 1
+Found new last for line 842 : 1
+final digits for line  842 : 8 1
+Cal value for line 842 is: 81
+Total is:  47046
+initial digits for line  843 : 3 3
+Found new last for line 843 : 7
+final digits for line  843 : 3 7
+Cal value for line 843 is: 37
+Total is:  47083
+initial digits for line  844 : 9 9
+Found new first for line 844 : 5
+final digits for line  844 : 5 9
+Cal value for line 844 is: 59
+Total is:  47142
+initial digits for line  845 : 8 1
+final digits for line  845 : 8 1
+Cal value for line 845 is: 81
+Total is:  47223
+initial digits for line  846 : 3 6
+Found new first for line 846 : 8
+Found new last for line 846 : 4
+final digits for line  846 : 8 4
+Cal value for line 846 is: 84
+Total is:  47307
+initial digits for line  847 : 7 7
+Found new last for line 847 : 4
+Found new last for line 847 : 6
+Found new first for line 847 : 9
+final digits for line  847 : 9 6
+Cal value for line 847 is: 96
+Total is:  47403
+initial digits for line  848 : 4 2
+final digits for line  848 : 4 2
+Cal value for line 848 is: 42
+Total is:  47445
+initial digits for line  849 : 8 8
+Found new last for line 849 : 8
+linenum with duplicate number:  8nineeightsqfhsevenninezfseven
+Found new last for line 849 : 7
+linenum with duplicate number:  8nineeightsqfhsevenninezfseven
+final digits for line  849 : 8 7
+Cal value for line 849 is: 87
+Total is:  47532
+initial digits for line  850 : 7 9
+Found new last for line 850 : 1
+Found new first for line 850 : 3
+final digits for line  850 : 3 1
+Cal value for line 850 is: 31
+Total is:  47563
+initial digits for line  851 : 1 1
+Found new first for line 851 : 2
+final digits for line  851 : 2 1
+Cal value for line 851 is: 21
+Total is:  47584
+initial digits for line  852 : 5 5
+Found new last for line 852 : 9
+Found new last for line 852 : 1
+final digits for line  852 : 5 1
+Cal value for line 852 is: 51
+Total is:  47635
+initial digits for line  853 : 8 8
+Found new last for line 853 : 6
+Found new last for line 853 : 9
+final digits for line  853 : 8 9
+Cal value for line 853 is: 89
+Total is:  47724
+initial digits for line  854 : 2 4
+Found new last for line 854 : 2
+Found new last for line 854 : 3
+final digits for line  854 : 2 3
+Cal value for line 854 is: 23
+Total is:  47747
+initial digits for line  855 : 6 3
+Found new last for line 855 : 5
+final digits for line  855 : 6 5
+Cal value for line 855 is: 65
+Total is:  47812
+initial digits for line  856 : 2 5
+Found new last for line 856 : 5
+final digits for line  856 : 2 5
+Cal value for line 856 is: 25
+Total is:  47837
+initial digits for line  857 : 8 8
+Found new last for line 857 : 2
+final digits for line  857 : 8 2
+Cal value for line 857 is: 82
+Total is:  47919
+initial digits for line  858 : 5 7
+Found new first for line 858 : 1
+final digits for line  858 : 1 7
+Cal value for line 858 is: 17
+Total is:  47936
+initial digits for line  859 : 5 5
+Found new last for line 859 : 1
+Found new first for line 859 : 4
+final digits for line  859 : 4 1
+Cal value for line 859 is: 41
+Total is:  47977
+initial digits for line  860 : 2 2
+linenum with duplicate number:  sfcdttxpblbsevenseven2
+Found new first for line 860 : 7
+final digits for line  860 : 7 2
+Cal value for line 860 is: 72
+Total is:  48049
+initial digits for line  861 : 3 5
+final digits for line  861 : 3 5
+Cal value for line 861 is: 35
+Total is:  48084
+initial digits for line  862 : 5 6
+Found new last for line 862 : 3
+final digits for line  862 : 5 3
+Cal value for line 862 is: 53
+Total is:  48137
+initial digits for line  863 : 6 6
+Found new first for line 863 : 7
+linenum with duplicate number:  ninesevenls6nqqtfninehjdb
+Found new first for line 863 : 9
+Found new last for line 863 : 9
+final digits for line  863 : 9 9
+Cal value for line 863 is: 99
+Total is:  48236
+initial digits for line  864 : 9 2
+final digits for line  864 : 9 2
+Cal value for line 864 is: 92
+Total is:  48328
+initial digits for line  865 : 8 2
+Found new last for line 865 : 7
+final digits for line  865 : 8 7
+Cal value for line 865 is: 87
+Total is:  48415
+initial digits for line  866 : 7 9
+Found new last for line 866 : 2
+Found new last for line 866 : 3
+final digits for line  866 : 7 3
+Cal value for line 866 is: 73
+Total is:  48488
+initial digits for line  867 : 8 3
+linenum with duplicate number:  8eight3vzxsixoneeightzzcdkhgtpz
+Found new last for line 867 : 6
+Found new last for line 867 : 1
+final digits for line  867 : 8 1
+Cal value for line 867 is: 81
+Total is:  48569
+initial digits for line  868 : 3 3
+Found new first for line 868 : 9
+Found new first for line 868 : 5
+final digits for line  868 : 5 3
+Cal value for line 868 is: 53
+Total is:  48622
+initial digits for line  869 : 7 7
+Found new first for line 869 : 3
+Found new first for line 869 : 4
+final digits for line  869 : 4 7
+Cal value for line 869 is: 47
+Total is:  48669
+initial digits for line  870 : 4 6
+Found new first for line 870 : 8
+Found new first for line 870 : 2
+final digits for line  870 : 2 6
+Cal value for line 870 is: 26
+Total is:  48695
+initial digits for line  871 : 8 1
+final digits for line  871 : 8 1
+Cal value for line 871 is: 81
+Total is:  48776
+initial digits for line  872 : 3 1
+final digits for line  872 : 3 1
+Cal value for line 872 is: 31
+Total is:  48807
+initial digits for line  873 : 7 6
+Found new first for line 873 : 2
+final digits for line  873 : 2 6
+Cal value for line 873 is: 26
+Total is:  48833
+initial digits for line  874 : 7 8
+final digits for line  874 : 7 8
+Cal value for line 874 is: 78
+Total is:  48911
+initial digits for line  875 : 4 9
+Found new first for line 875 : 6
+Found new first for line 875 : 9
+final digits for line  875 : 9 9
+Cal value for line 875 is: 99
+Total is:  49010
+initial digits for line  876 : 1 1
+Found new last for line 876 : 4
+final digits for line  876 : 1 4
+Cal value for line 876 is: 14
+Total is:  49024
+initial digits for line  877 : 3 6
+Found new last for line 877 : 3
+final digits for line  877 : 3 3
+Cal value for line 877 is: 33
+Total is:  49057
+initial digits for line  878 : 7 7
+Found new last for line 878 : 1
+Found new last for line 878 : 8
+final digits for line  878 : 7 8
+Cal value for line 878 is: 78
+Total is:  49135
+initial digits for line  879 : 5 7
+Found new first for line 879 : 4
+final digits for line  879 : 4 7
+Cal value for line 879 is: 47
+Total is:  49182
+initial digits for line  880 : 3 3
+final digits for line  880 : 3 3
+Cal value for line 880 is: 33
+Total is:  49215
+initial digits for line  881 : 2 7
+Found new first for line 881 : 2
+Found new first for line 881 : 9
+final digits for line  881 : 9 7
+Cal value for line 881 is: 97
+Total is:  49312
+initial digits for line  882 : 5 5
+linenum with duplicate number:  qgpfzngtntdsdjvlvmxnmgtbthree5bnkthree
+Found new first for line 882 : 3
+Found new last for line 882 : 3
+final digits for line  882 : 3 3
+Cal value for line 882 is: 33
+Total is:  49345
+initial digits for line  883 : 9 9
+Found new last for line 883 : 3
+final digits for line  883 : 9 3
+Cal value for line 883 is: 93
+Total is:  49438
+initial digits for line  884 : 1 7
+Found new first for line 884 : 6
+Found new last for line 884 : 7
+final digits for line  884 : 6 7
+Cal value for line 884 is: 67
+Total is:  49505
+initial digits for line  885 : 6 6
+Found new last for line 885 : 8
+Found new last for line 885 : 2
+final digits for line  885 : 6 2
+Cal value for line 885 is: 62
+Total is:  49567
+initial digits for line  886 : 9 9
+Found new first for line 886 : 8
+Found new first for line 886 : 1
+final digits for line  886 : 1 9
+Cal value for line 886 is: 19
+Total is:  49586
+initial digits for line  887 : 6 7
+final digits for line  887 : 6 7
+Cal value for line 887 is: 67
+Total is:  49653
+initial digits for line  888 : 3 3
+Found new last for line 888 : 9
+final digits for line  888 : 3 9
+Cal value for line 888 is: 39
+Total is:  49692
+initial digits for line  889 : 4 4
+final digits for line  889 : 4 4
+Cal value for line 889 is: 44
+Total is:  49736
+initial digits for line  890 : 3 3
+Found new last for line 890 : 8
+linenum with duplicate number:  plbvmzc3sixfourfoureightkrxbzsdnbj
+final digits for line  890 : 3 8
+Cal value for line 890 is: 38
+Total is:  49774
+initial digits for line  891 : 7 4
+Found new first for line 891 : 7
+final digits for line  891 : 7 4
+Cal value for line 891 is: 74
+Total is:  49848
+initial digits for line  892 : 7 2
+final digits for line  892 : 7 2
+Cal value for line 892 is: 72
+Total is:  49920
+initial digits for line  893 : 9 9
+linenum with duplicate number:  tcdcvqkknhxp9fivenlphrppfivenine
+Found new last for line 893 : 5
+Found new last for line 893 : 9
+final digits for line  893 : 9 9
+Cal value for line 893 is: 99
+Total is:  50019
+initial digits for line  894 : 8 5
+final digits for line  894 : 8 5
+Cal value for line 894 is: 85
+Total is:  50104
+initial digits for line  895 : 5 1
+Found new last for line 895 : 2
+final digits for line  895 : 5 2
+Cal value for line 895 is: 52
+Total is:  50156
+initial digits for line  896 : 5 2
+linenum with duplicate number:  58threellgc74three2
+final digits for line  896 : 5 2
+Cal value for line 896 is: 52
+Total is:  50208
+initial digits for line  897 : 2 1
+Found new last for line 897 : 4
+final digits for line  897 : 2 4
+Cal value for line 897 is: 24
+Total is:  50232
+initial digits for line  898 : 2 2
+Found new first for line 898 : 8
+Found new first for line 898 : 3
+final digits for line  898 : 3 2
+Cal value for line 898 is: 32
+Total is:  50264
+initial digits for line  899 : 7 7
+Found new first for line 899 : 1
+final digits for line  899 : 1 7
+Cal value for line 899 is: 17
+Total is:  50281
+initial digits for line  900 : 8 8
+final digits for line  900 : 8 8
+Cal value for line 900 is: 88
+Total is:  50369
+initial digits for line  901 : 2 7
+final digits for line  901 : 2 7
+Cal value for line 901 is: 27
+Total is:  50396
+initial digits for line  902 : 5 3
+Found new first for line 902 : 9
+final digits for line  902 : 9 3
+Cal value for line 902 is: 93
+Total is:  50489
+initial digits for line  903 : 6 2
+Found new first for line 903 : 5
+final digits for line  903 : 5 2
+Cal value for line 903 is: 52
+Total is:  50541
+initial digits for line  904 : 8 8
+Found new last for line 904 : 8
+Found new first for line 904 : 1
+Found new last for line 904 : 5
+final digits for line  904 : 1 5
+Cal value for line 904 is: 15
+Total is:  50556
+initial digits for line  905 : 8 8
+Found new last for line 905 : 8
+final digits for line  905 : 8 8
+Cal value for line 905 is: 88
+Total is:  50644
+initial digits for line  906 : 2 2
+final digits for line  906 : 2 2
+Cal value for line 906 is: 22
+Total is:  50666
+initial digits for line  907 : 9 6
+linenum with duplicate number:  cztjsixsix96xljqqfhtmd
+Found new first for line 907 : 6
+final digits for line  907 : 6 6
+Cal value for line 907 is: 66
+Total is:  50732
+initial digits for line  908 : 6 6
+Found new last for line 908 : 9
+final digits for line  908 : 6 9
+Cal value for line 908 is: 69
+Total is:  50801
+initial digits for line  909 : 7 1
+final digits for line  909 : 7 1
+Cal value for line 909 is: 71
+Total is:  50872
+initial digits for line  910 : 7 3
+final digits for line  910 : 7 3
+Cal value for line 910 is: 73
+Total is:  50945
+initial digits for line  911 : 2 9
+Found new last for line 911 : 7
+final digits for line  911 : 2 7
+Cal value for line 911 is: 27
+Total is:  50972
+initial digits for line  912 : 5 8
+final digits for line  912 : 5 8
+Cal value for line 912 is: 58
+Total is:  51030
+initial digits for line  913 : 9 1
+Found new last for line 913 : 2
+final digits for line  913 : 9 2
+Cal value for line 913 is: 92
+Total is:  51122
+initial digits for line  914 : 4 5
+Found new first for line 914 : 2
+final digits for line  914 : 2 5
+Cal value for line 914 is: 25
+Total is:  51147
+initial digits for line  915 : 7 7
+Found new first for line 915 : 2
+Found new first for line 915 : 4
+final digits for line  915 : 4 7
+Cal value for line 915 is: 47
+Total is:  51194
+initial digits for line  916 : 8 8
+Found new last for line 916 : 1
+final digits for line  916 : 8 1
+Cal value for line 916 is: 81
+Total is:  51275
+initial digits for line  917 : 3 4
+Found new last for line 917 : 5
+final digits for line  917 : 3 5
+Cal value for line 917 is: 35
+Total is:  51310
+initial digits for line  918 : 6 5
+Found new first for line 918 : 1
+final digits for line  918 : 1 5
+Cal value for line 918 is: 15
+Total is:  51325
+initial digits for line  919 : 1 4
+final digits for line  919 : 1 4
+Cal value for line 919 is: 14
+Total is:  51339
+initial digits for line  920 : 3 9
+Found new last for line 920 : 4
+linenum with duplicate number:  3zthjdsix9geightsixeightfour
+linenum with duplicate number:  3zthjdsix9geightsixeightfour
+final digits for line  920 : 3 4
+Cal value for line 920 is: 34
+Total is:  51373
+initial digits for line  921 : 3 3
+Found new first for line 921 : 5
+Found new last for line 921 : 6
+linenum with duplicate number:  jvhhrkrnhfivenineonethree3sixninegplzthbxj
+final digits for line  921 : 5 6
+Cal value for line 921 is: 56
+Total is:  51429
+initial digits for line  922 : 7 4
+Found new first for line 922 : 1
+final digits for line  922 : 1 4
+Cal value for line 922 is: 14
+Total is:  51443
+initial digits for line  923 : 1 3
+final digits for line  923 : 1 3
+Cal value for line 923 is: 13
+Total is:  51456
+initial digits for line  924 : 8 8
+Found new last for line 924 : 9
+Found new last for line 924 : 2
+final digits for line  924 : 8 2
+Cal value for line 924 is: 82
+Total is:  51538
+initial digits for line  925 : 8 7
+final digits for line  925 : 8 7
+Cal value for line 925 is: 87
+Total is:  51625
+initial digits for line  926 : 5 8
+linenum with duplicate number:  six5xhrtbhdmhpbpqqsfjjninesix8seven
+Found new first for line 926 : 6
+Found new last for line 926 : 7
+final digits for line  926 : 6 7
+Cal value for line 926 is: 67
+Total is:  51692
+initial digits for line  927 : 8 9
+Found new first for line 927 : 7
+final digits for line  927 : 7 9
+Cal value for line 927 is: 79
+Total is:  51771
+initial digits for line  928 : 5 5
+final digits for line  928 : 5 5
+Cal value for line 928 is: 55
+Total is:  51826
+initial digits for line  929 : 3 3
+Found new first for line 929 : 1
+Found new last for line 929 : 6
+final digits for line  929 : 1 6
+Cal value for line 929 is: 16
+Total is:  51842
+initial digits for line  930 : 8 8
+final digits for line  930 : 8 8
+Cal value for line 930 is: 88
+Total is:  51930
+initial digits for line  931 : 8 1
+Found new first for line 931 : 8
+Found new first for line 931 : 7
+final digits for line  931 : 7 1
+Cal value for line 931 is: 71
+Total is:  52001
+initial digits for line  932 : 9 8
+final digits for line  932 : 9 8
+Cal value for line 932 is: 98
+Total is:  52099
+initial digits for line  933 : 5 6
+Found new first for line 933 : 4
+linenum with duplicate number:  ppcmhlccprnmpndzkkjvbrptfour5fivefivefcdqvf6
+final digits for line  933 : 4 6
+Cal value for line 933 is: 46
+Total is:  52145
+initial digits for line  934 : 8 8
+Found new first for line 934 : 1
+Found new last for line 934 : 2
+Found new first for line 934 : 7
+final digits for line  934 : 7 2
+Cal value for line 934 is: 72
+Total is:  52217
+initial digits for line  935 : 3 1
+Found new last for line 935 : 1
+final digits for line  935 : 3 1
+Cal value for line 935 is: 31
+Total is:  52248
+initial digits for line  936 : 8 8
+Found new last for line 936 : 1
+final digits for line  936 : 8 1
+Cal value for line 936 is: 81
+Total is:  52329
+initial digits for line  937 : 2 2
+Found new last for line 937 : 6
+Found new last for line 937 : 3
+final digits for line  937 : 2 3
+Cal value for line 937 is: 23
+Total is:  52352
+initial digits for line  938 : 1 1
+Found new last for line 938 : 5
+linenum with duplicate number:  1twofivetwozxqhjqjbzgzsslgd
+final digits for line  938 : 1 5
+Cal value for line 938 is: 15
+Total is:  52367
+initial digits for line  939 : 3 8
+Found new last for line 939 : 7
+final digits for line  939 : 3 7
+Cal value for line 939 is: 37
+Total is:  52404
+initial digits for line  940 : 6 6
+Found new first for line 940 : 8
+Found new last for line 940 : 9
+Found new first for line 940 : 2
+final digits for line  940 : 2 9
+Cal value for line 940 is: 29
+Total is:  52433
+initial digits for line  941 : 8 8
+Found new last for line 941 : 1
+Found new last for line 941 : 6
+final digits for line  941 : 8 6
+Cal value for line 941 is: 86
+Total is:  52519
+initial digits for line  942 : 9 9
+Found new last for line 942 : 8
+Found new first for line 942 : 9
+final digits for line  942 : 9 8
+Cal value for line 942 is: 98
+Total is:  52617
+initial digits for line  943 : 2 2
+final digits for line  943 : 2 2
+Cal value for line 943 is: 22
+Total is:  52639
+initial digits for line  944 : 2 4
+Found new last for line 944 : 6
+final digits for line  944 : 2 6
+Cal value for line 944 is: 26
+Total is:  52665
+initial digits for line  945 : 8 8
+final digits for line  945 : 8 8
+Cal value for line 945 is: 88
+Total is:  52753
+initial digits for line  946 : 6 6
+Found new last for line 946 : 3
+Found new first for line 946 : 6
+final digits for line  946 : 6 3
+Cal value for line 946 is: 63
+Total is:  52816
+initial digits for line  947 : 7 1
+final digits for line  947 : 7 1
+Cal value for line 947 is: 71
+Total is:  52887
+initial digits for line  948 : 2 8
+final digits for line  948 : 2 8
+Cal value for line 948 is: 28
+Total is:  52915
+initial digits for line  949 : 1 1
+linenum with duplicate number:  zdkznnkonetsstchvtxsvpfone1sjmqndvbhfg
+Found new first for line 949 : 1
+final digits for line  949 : 1 1
+Cal value for line 949 is: 11
+Total is:  52926
+initial digits for line  950 : 2 2
+Found new last for line 950 : 1
+final digits for line  950 : 2 1
+Cal value for line 950 is: 21
+Total is:  52947
+initial digits for line  951 : 1 1
+final digits for line  951 : 1 1
+Cal value for line 951 is: 11
+Total is:  52958
+initial digits for line  952 : 7 7
+linenum with duplicate number:  7eightggfvfrsrfive77sxxrshdrfive
+final digits for line  952 : 7 7
+Cal value for line 952 is: 77
+Total is:  53035
+initial digits for line  953 : 1 2
+final digits for line  953 : 1 2
+Cal value for line 953 is: 12
+Total is:  53047
+initial digits for line  954 : 9 5
+linenum with duplicate number:  9znqtwo2three5three75
+final digits for line  954 : 9 5
+Cal value for line 954 is: 95
+Total is:  53142
+initial digits for line  955 : 8 8
+Found new last for line 955 : 6
+Found new first for line 955 : 7
+final digits for line  955 : 7 6
+Cal value for line 955 is: 76
+Total is:  53218
+initial digits for line  956 : 1 1
+linenum with duplicate number:  four138six7six1four
+Found new first for line 956 : 4
+Found new last for line 956 : 4
+linenum with duplicate number:  four138six7six1four
+final digits for line  956 : 4 4
+Cal value for line 956 is: 44
+Total is:  53262
+initial digits for line  957 : 8 8
+final digits for line  957 : 8 8
+Cal value for line 957 is: 88
+Total is:  53350
+initial digits for line  958 : 8 8
+final digits for line  958 : 8 8
+Cal value for line 958 is: 88
+Total is:  53438
+initial digits for line  959 : 8 9
+final digits for line  959 : 8 9
+Cal value for line 959 is: 89
+Total is:  53527
+initial digits for line  960 : 5 3
+Found new first for line 960 : 1
+Found new last for line 960 : 2
+final digits for line  960 : 1 2
+Cal value for line 960 is: 12
+Total is:  53539
+initial digits for line  961 : 9 3
+final digits for line  961 : 9 3
+Cal value for line 961 is: 93
+Total is:  53632
+initial digits for line  962 : 5 5
+Found new last for line 962 : 4
+final digits for line  962 : 5 4
+Cal value for line 962 is: 54
+Total is:  53686
+initial digits for line  963 : 3 4
+final digits for line  963 : 3 4
+Cal value for line 963 is: 34
+Total is:  53720
+initial digits for line  964 : 2 7
+final digits for line  964 : 2 7
+Cal value for line 964 is: 27
+Total is:  53747
+initial digits for line  965 : 1 7
+Found new first for line 965 : 7
+final digits for line  965 : 7 7
+Cal value for line 965 is: 77
+Total is:  53824
+initial digits for line  966 : 7 7
+final digits for line  966 : 7 7
+Cal value for line 966 is: 77
+Total is:  53901
+initial digits for line  967 : 5 8
+linenum with duplicate number:  fourdnh568oneninehqftnfninetwonejjn
+Found new last for line 967 : 9
+linenum with duplicate number:  fourdnh568oneninehqftnfninetwonejjn
+Found new last for line 967 : 2
+Found new first for line 967 : 4
+final digits for line  967 : 4 2
+Cal value for line 967 is: 42
+Total is:  53943
+initial digits for line  968 : 2 1
+Found new last for line 968 : 7
+final digits for line  968 : 2 7
+Cal value for line 968 is: 27
+Total is:  53970
+initial digits for line  969 : 4 8
+final digits for line  969 : 4 8
+Cal value for line 969 is: 48
+Total is:  54018
+initial digits for line  970 : 5 3
+final digits for line  970 : 5 3
+Cal value for line 970 is: 53
+Total is:  54071
+initial digits for line  971 : 1 6
+Found new first for line 971 : 2
+Found new last for line 971 : 4
+Found new first for line 971 : 5
+final digits for line  971 : 5 4
+Cal value for line 971 is: 54
+Total is:  54125
+initial digits for line  972 : 5 5
+Found new first for line 972 : 9
+Found new last for line 972 : 1
+Found new first for line 972 : 6
+final digits for line  972 : 6 1
+Cal value for line 972 is: 61
+Total is:  54186
+initial digits for line  973 : 1 1
+linenum with duplicate number:  1seven6fourfournjsdvhlkhp1
+final digits for line  973 : 1 1
+Cal value for line 973 is: 11
+Total is:  54197
+initial digits for line  974 : 8 9
+Found new first for line 974 : 5
+final digits for line  974 : 5 9
+Cal value for line 974 is: 59
+Total is:  54256
+initial digits for line  975 : 1 1
+linenum with duplicate number:  1fgmrleighteightdzxh
+Found new last for line 975 : 8
+final digits for line  975 : 1 8
+Cal value for line 975 is: 18
+Total is:  54274
+initial digits for line  976 : 5 5
+Found new first for line 976 : 8
+Found new last for line 976 : 9
+final digits for line  976 : 8 9
+Cal value for line 976 is: 89
+Total is:  54363
+initial digits for line  977 : 4 4
+Found new first for line 977 : 8
+final digits for line  977 : 8 4
+Cal value for line 977 is: 84
+Total is:  54447
+initial digits for line  978 : 2 2
+linenum with duplicate number:  sqfklfbkjvbghbgmszzzpeightfive2fiveonefive
+Found new first for line 978 : 5
+Found new last for line 978 : 5
+Found new first for line 978 : 8
+final digits for line  978 : 8 5
+Cal value for line 978 is: 85
+Total is:  54532
+initial digits for line  979 : 6 3
+Found new last for line 979 : 7
+Found new first for line 979 : 8
+final digits for line  979 : 8 7
+Cal value for line 979 is: 87
+Total is:  54619
+initial digits for line  980 : 4 2
+linenum with duplicate number:  fkeightniner4fourfour2eight
+Found new first for line 980 : 8
+Found new last for line 980 : 8
+linenum with duplicate number:  fkeightniner4fourfour2eight
+final digits for line  980 : 8 8
+Cal value for line 980 is: 88
+Total is:  54707
+initial digits for line  981 : 8 7
+Found new first for line 981 : 9
+final digits for line  981 : 9 7
+Cal value for line 981 is: 97
+Total is:  54804
+initial digits for line  982 : 3 3
+Found new last for line 982 : 4
+final digits for line  982 : 3 4
+Cal value for line 982 is: 34
+Total is:  54838
+initial digits for line  983 : 7 8
+linenum with duplicate number:  dpn7688eighteightdjl8
+final digits for line  983 : 7 8
+Cal value for line 983 is: 78
+Total is:  54916
+initial digits for line  984 : 5 3
+Found new last for line 984 : 5
+final digits for line  984 : 5 5
+Cal value for line 984 is: 55
+Total is:  54971
+initial digits for line  985 : 2 4
+final digits for line  985 : 2 4
+Cal value for line 985 is: 24
+Total is:  54995
+initial digits for line  986 : 5 5
+Found new first for line 986 : 1
+final digits for line  986 : 1 5
+Cal value for line 986 is: 15
+Total is:  55010
+initial digits for line  987 : 4 4
+Found new first for line 987 : 6
+Found new last for line 987 : 3
+final digits for line  987 : 6 3
+Cal value for line 987 is: 63
+Total is:  55073
+initial digits for line  988 : 1 8
+Found new first for line 988 : 9
+final digits for line  988 : 9 8
+Cal value for line 988 is: 98
+Total is:  55171
+initial digits for line  989 : 1 1
+Found new last for line 989 : 9
+Found new last for line 989 : 1
+linenum with duplicate number:  zhzkslnd1twonpqxtwoninefiveone
+final digits for line  989 : 1 1
+Cal value for line 989 is: 11
+Total is:  55182
+initial digits for line  990 : 7 3
+Found new first for line 990 : 5
+final digits for line  990 : 5 3
+Cal value for line 990 is: 53
+Total is:  55235
+initial digits for line  991 : 2 1
+Found new first for line 991 : 7
+final digits for line  991 : 7 1
+Cal value for line 991 is: 71
+Total is:  55306
+initial digits for line  992 : 4 4
+linenum with duplicate number:  sixvdtzsixthree4lchxtdkv
+Found new first for line 992 : 6
+final digits for line  992 : 6 4
+Cal value for line 992 is: 64
+Total is:  55370
+initial digits for line  993 : 1 2
+Found new last for line 993 : 6
+Found new last for line 993 : 9
+final digits for line  993 : 1 9
+Cal value for line 993 is: 19
+Total is:  55389
+initial digits for line  994 : 9 7
+Found new first for line 994 : 8
+Found new first for line 994 : 9
+final digits for line  994 : 9 7
+Cal value for line 994 is: 97
+Total is:  55486
+initial digits for line  995 : 7 7
+final digits for line  995 : 7 7
+Cal value for line 995 is: 77
+Total is:  55563
+initial digits for line  996 : 5 5
+final digits for line  996 : 5 5
+Cal value for line 996 is: 55
+Total is:  55618
+initial digits for line  997 : 8 1
+final digits for line  997 : 8 1
+Cal value for line 997 is: 81
+Total is:  55699
+initial digits for line  998 : 2 4
+final digits for line  998 : 2 4
+Cal value for line 998 is: 24
+Total is:  55723
+initial digits for line  999 : 6 9
+Found new last for line 999 : 2
+Found new first for line 999 : 9
+final digits for line  999 : 9 2
+Cal value for line 999 is: 92
+Total is:  55815
+initial digits for line  1000 : 9 9
+linenum with duplicate number:  hmbfjdfnp989mfivefiverpzrjs
+Found new last for line 1000 : 5
+final digits for line  1000 : 9 5
+Cal value for line 1000 is: 95
+Total is:  55910
+final value is: 55910

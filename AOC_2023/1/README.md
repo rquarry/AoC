@@ -10,3 +10,5 @@ This was a faily straight forward exercise when using the string functions from 
 Took this opportunity to use a Go map for string and int values of numbers. My approach was intended to be more educational with Go than efficient with my proces of int -> Itoa -> combined string -> int. 
 
 Took way to long to discover my issue with strings that contained multiples of the same number word (line 87-89)
+
+Go strings: https://pkg.go.dev/strings@go1.21.5
